@@ -1,3 +1,2 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo= “https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=724” group-title=“SPORTS”, Fox Sports - 1
-http://41.205.93.154/FOXSPORTS1/index.m3u8
+#EXTINF:-1 http://41.205.93.154/FOXSPORTS1/index.m3u8
