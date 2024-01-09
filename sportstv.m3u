@@ -1,21 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="Fox Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png", Fox Soccer Plus
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png", Fox Soccer Plus
 http://38.96.178.201/live/FoxSoccerPlus/index.m3u8
 
-#EXTINF:-1 tvg-name="Fox Sports - 1" tvg-logo="https://e7.pngegg.com/pngimages/771/389/png-clipart-fox-sports-networks-fox-sports-1-broadcasting-sports-logo-emblem-text-thumbnail.png", Fox Sports - 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/771/389/png-clipart-fox-sports-networks-fox-sports-1-broadcasting-sports-logo-emblem-text-thumbnail.png", Fox Sports - 1
 http://41.205.93.154/FOXSPORTS1/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports - 2" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png", Fox Sports - 2
-http://41.205.93.154/FOXSPORTS2/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", Fox Deportes
-http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Star Sports - 1" tvg-logo="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Star_Sports_1_HD.png", Star Sports - 1
-http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Star Sports Select - 1" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORT-SELECT-HD-1.png", Star Sports Select - 1
-http://otv.ftpbd.net:8082/Star-Select-1-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Star Sports Select - 2" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORT-SELECT-HD-2.png", Star Sports Select - 2
-http://otv.ftpbd.net:8082/Star-Select-2-HD/tracks-v1a1/mono.m3u8
