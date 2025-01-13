@@ -1,13 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLfUj3A.png" group-title="Sports",Eurosports - 1 HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/cz682u1628519810.png" group-title="Sports",Match Futbol - 1 (Russia)
 http://194.143.148.28:8080/MatchFutbol1/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png" group-title="Sports",Redbull TV (Spanish)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
