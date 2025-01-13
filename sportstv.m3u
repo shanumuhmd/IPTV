@@ -1,6 +1,3 @@
 #EXTM3U 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png",Fox Soccer Plus
 http://38.96.178.201/live/FoxSoccerPlus/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/771/389/png-clipart-fox-sports-networks-fox-sports-1-broadcasting-sports-logo-emblem-text-thumbnail.png",Fox Sports - 1
-http://41.205.93.154/FOXSPORTS1/index.m3u8
