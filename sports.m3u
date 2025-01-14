@@ -246,31 +246,6 @@ http://45.169.39.162:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="Sports",ESPN HD
 http://45.169.39.162:8000/play/a01v/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Sports",Sport TV - 1 Portugal
-http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Sports",Sport TV - 2 Portugal
-http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest?cb=20231020154659" group-title="Sports",Sport TV - 3 Portugal
-http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="Sports",Sport TV - 4 Portugal
-http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Sport_TV5.png" group-title="Sports",Sport TV - 5 Portugal
-http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Spor-tv.jpg/revision/latest?cb=20230224172124" group-title="Sports",Sport TV - 6 Portugal
-http://216.227.145.114:8000/SPORT_TV6/index.m3u8?token=test
-
-
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/sonyliv-logo-freelogovectors.net_.png" group-title="Sports",Sony Liv
 https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1732375758~acl=*~id=155678448410001965141732325758367~hmac=6bee378230ab5d36606c8043d195e2cb2acdcac91031d377605c3db44b49c10f
 
