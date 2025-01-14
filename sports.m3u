@@ -28,7 +28,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=2069&extens
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="Sports", SPOTV - 2
+#EXTINF:-1 tvg-logo="https://i.namu.wiki/i/qOcrRzikMGeImJbShTaAoy7zW1XfloVjhJZK_AtyggfZPfZ1f6vp0N91S6ct65T0bJgNz4mwt0F1K6VeqcD0Lw.svg" group-title="Sports", SPOTV - 2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 
@@ -196,7 +196,7 @@ http://109.61.81.147:2080/cdn2/519/video.m3u8?token=4444
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png" group-title="Sports",Geo Super
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u7vR1z3UhqPPbd315kLIaZCPAxY8uPQdLXKnyYEAKcJfjAcwoUvJRNyDCkJ9p-uxlNmy" group-title="Sports",Geo Super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 
