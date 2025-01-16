@@ -4460,3 +4460,367 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BLfUj3A.png" group-title="Sports",Eurosports - 1 HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/cz682u1628519810.png" group-title="Sports",Match Futbol - 1 (Russia)
+http://194.143.148.28:8080/MatchFutbol1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png" group-title="Sports",Redbull TV (Spanish)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="Sports", SPOTV - 1
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="Sports", SPOTV - 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240831235843" group-title="Sports", Astro Cricket
+http://z88.ubtvfans.com/live/rx3/1173/4a322e3c6d5c5e2f3ed5dede47a570ed/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2K0g2TTjUrdelUX-AGEavGipYo2cFowM3c2g-owzo9QmUixoqVuEh7BQDC2AOhy9aLlyh9yMYA=s900-c-k-c0x00ffffff-no-rj" group-title="Sports", Willow Cricket
+http://z88.ubtvfans.com/live/rx2/3231/a29733b6d775bf93b7dfa26027688fc5/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="Sports", Sony Ten - 1 HD
+http://119.156.26.155:8000/play/a06b/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/SPORTS18-1-hd.png" group-title="Sports", Sports 18 - 1 HD
+http://119.156.26.155:8000/play/a005/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6lRzjXDUdBmEkDyVCFAYZUW0M1o1ec2_RA&s",  group-title="Sports", ESPN Acc Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="Sports", ESPN - 2 HD
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/NBA_TV_Canada/NBA_TV_Canada-Logo.wine.png" group-title="Sports", NBA TV HD
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-86FBCD7B94-seeklogo.com.png" group-title="Sports", NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUVoZxvT84FCsyT6yH1oLOW-MtD7kgL-mtA&s" group-title="Sports", ESPN u
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://livearab.net/upload/%D8%AF%D8%A8%D9%8A%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9%202.png" group-title="Sports",Dubai sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgICN3aICqNKaHUUtm_EREFwmzKGQRqX7YGA&s" group-title="Sports",Dubai sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.nitrouscar.com/wp-content/uploads/2017/03/Dubai-Sports-Logo.jpg" group-title="Sports", Dubai Sports HD
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sports",Abu Dhabi Sports - 1 HD
+http://154.197.91.169:7003/play/a0fk/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg" group-title="Sports",Abu Dhabi Sports - 2 HD
+http://154.197.91.169:7003/play/a0fl/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="Sports",Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg" group-title="Sports",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/ITV_Sport_2013_2.svg/1280px-ITV_Sport_2013_2.svg.png" group-title="Sports",ITV sport
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://flsport.gy/wp-content/uploads/2023/05/cropped-FL-SPORT-1.png" group-title="Sports",FL SPORT
+https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
+http://176.119.29.52/live.ts?channelId=48010&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/Astro_Cricket_logo.png/revision/latest?cb=20230515093956&path-prefix=vi" group-title="Sports", Astro Cricket
+https://criccoder.pages.dev/astro.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports", Ten Sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports", Ten Sports
+http://109.61.81.147:2080/cdn2/510/video.m3u8?token=4444
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports", Ten Sports
+http://109.61.81.147:2080/cdn2/519/video.m3u8?token=4444
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png" group-title="Sports",Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports HD
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Sports",ESPN 6
+http://38.180.133.31:8000/play/a0ne/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Sports",ESPN Premium
+http://38.180.133.31:8000/play/a0vx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoca9lubBbgol906MzXMN3wqKwMLCu2GS6B_XNulEFHCcXQvtoEVBGOAUIjVKHvux7Ky5OyXYy_w6dHUUGHQDVCV37vsMxavO_5tQhMlrsGCF-rB_50rSYa2e6hExSj848ZVmGYzfpaus/s1600/logo+espn+2013.png" group-title="Sports",ESPN - 2 Vivo
+http://45.169.39.162:8000/play/a0l4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sports",ESPN 3
+http://45.169.39.162:8000/play/00033/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawhgXG13viZcK4ceDYjtmTxErTMxIyvrYeg&s" group-title="Sports",ESPN 4
+http://45.169.39.162:8000/play/a02s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="Sports",ESPN 5
+http://45.169.39.162:8000/play/a04b/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Sports",ESPN 6
+http://45.169.39.162:8000/play/a02x/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-e06Cn8c0bkjf_s5BhjDpNbm-PeSsrsFQgQ&s" group-title="Sports",ESPN 7
+http://45.169.39.162:8000/play/a02z/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="Sports",ESPN HD
+http://45.169.39.162:8000/play/a02w/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="Sports",ESPN HD
+http://45.169.39.162:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Surya_TV_logo.png" group-title="Malayalam",Surya TV
+http://humsab.xyz/IN_SURYA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Malayalam",Surya Music TV
+http://116.202.46.40:9023/SURYA_MUSIC_MALAYALAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Surya_Comedy.png" group-title="Malayalam",Surya Comedy TV
+http://116.202.46.40:9023/SURYA_COMEDY_MALAYALAM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surya_Movies_TV_Logo.png" group-title="Malayalam",Surya Movies TV
+http://116.202.46.40:9023/SURYA_MOVIES_MALAYALAM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Asianet_2023_logo.png" group-title="Malayalam",Asianet TV
+http://217.20.112.199/asianet/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png" group-title="Malayalam",Mazhavil Manorama TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="Malayalam",Reporter TV Malayalam
+https://segment.yuppcdn.net/050522/reporter/050522/reporter_1800/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Amrita_Channel-logo-01C5BE80AE-seeklogo.com.png" group-title="Malayalam",Amrita TV Malayalam
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Kaumudy_TV.jpeg/revision/latest?cb=20191228094005" group-title="Malayalam",Kaumudi TV Malayalam
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/asianet-news-logo-720D34C403-seeklogo.com.png" group-title="Malayalam",Asianet News Malayalam
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TwentyFour_News_logo.png" group-title="Malayalam",24 News Malayalam 
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMcAc5EZ6ZwVcpzRoNTz75KFstRQZu961WA&s" group-title="Malayalam",Mathrubhumi News 
+https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam",Kairali We TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="Malayalam",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="Malayalam",Kairali News
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Kappa_TV_Background.png/revision/latest?cb=20181211100500" group-title="Malayalam",Kappa TV 
+https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Malayalam",Kerala Vision TV
+https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVGVEvY.png" group-title="Malayalam",Kerala Vision News TV
+https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam",Kite Victors TV
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="Malayalam",Manorama News Malayalam
+https://segment.yuppcdn.net/240122/manoramanews/240122/manoramanews_1800/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam",Media One Malayalam
+https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="Malayalam",News 18 Malayalam
+https://ythls.armelin.one/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Malayalam",Safari TV Malayalam
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Malayalam",Zee Keralam
+https://cflive-esports-hindi.zee5.com/out/v1/c2a01fab468b452d9af1a1aa66644d9d/Zee_Keralam_ME_SD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Malayalam",Swantham TV Malayalam
+http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JVLzaa.png" group-title="Malayalam",Raj News Malayalam
+https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam",Pulari TV Malayalam
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKPGT0G.png" group-title="Malayalam",Powervision Malayalam
+https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Malayalam",Pravasi Channel Malayalam
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="Malayalam",Malayalam News 24x7
+https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="Malayalam",Jeevan TV
+https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png/v1/fill/w_380,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png" group-title="Malayalam",C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://magnavision.tv/wp-content/uploads/MV-Logo-v77.jpg" group-title="Malayalam",Magnavision Malayalam TV
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/abr3/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/f1/7d/d7f17df0-6607-06f1-7c17-5df2d7ade4ef/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png" group-title="Malayalam",Zee Malayalam News TV
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qg1IhV8.png" group-title="Malayalam",Asianet Plus TV
+https://dvr.anandmedia.net/anandmedia/asianetplus_576/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Malayalam",Flowers TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam",Garshom TV
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="Malayalam",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5b80isjXuVEebieCZJCZz4uyhNQVEEmxdA&s" group-title="Malayalam",Discovery Malayalam
+https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="Malayalam",Jaihind TV
+https://dvr.anandmedia.net/anandmedia/jaihind_576/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aoq6mpT.png" group-title="Malayalam",Harvest TV Malayalam
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2335117797062772357392811.png" group-title="Malayalam",MCV Channel Malayalam
+http://cloud.logichost.in:1935/live/mcvlive/chunklist_w141497558.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2325294121001855085015262.png" group-title="Malayalam",Citi News Malayalam
+http://cloud.logichost.in:1935/live/citi/chunklist_w2041544842.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2320177630118878637687951.png" group-title="Malayalam",Malabar Plus TV
+http://cloud.logichost.in:1935/live/mplus/chunklist_w1870583417.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_2300272855737498506803297.png" group-title="Malayalam",Malabar News Channel
+http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1541546301.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0630354354644313045762268.png" group-title="Malayalam",Sky Music Malayalam
+ipcloud.live:8080/nvision/skymusic.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_2329382361801632554774391.png" group-title="Malayalam",N Vision Malayalam
+http://ipcloud.live:8080/nvision/nvisionhd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0632594835657134594023375.png" group-title="Malayalam",Venad News Malayalam
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_1130383294310883535190253.png" group-title="Malayalam",VBC News Malayalam
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ebdb6e9-5a63-4b24-843f-aa7bb865c423/df5ss1b-110244d5-5945-43f8-8f3d-e5cb82418bc5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlYmRiNmU5LTVhNjMtNGIyNC04NDNmLWFhN2JiODY1YzQyM1wvZGY1c3MxYi0xMTAyNDRkNS01OTQ1LTQzZjgtOGYzZC1lNWNiODI0MThiYzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OWrucNfALrIWjFdR4nO0iAXA797muE-QiFhrP8p42hE" group-title="Malayalam",Disney Kids Malayalam
+https://nowmetv.net/delta/discovery/api/Discovery_Kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mazhavil_Manorama_Logo.png/640px-Mazhavil_Manorama_Logo.png" group-title="Malayalam",Mazhavil Manorama
+http://116.202.46.40:9023/MANORAMA_MALAYALAM/index.m3u8
+
+
+
