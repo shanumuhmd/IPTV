@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" group-title="Music",4Music [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
@@ -4639,7 +4639,7 @@ http://116.202.46.40:9023/SURYA_COMEDY_MALAYALAM/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surya_Movies_TV_Logo.png" group-title="Malayalam",Surya Movies TV
 http://116.202.46.40:9023/SURYA_MOVIES_MALAYALAM/index.m3u8
 
-#EXTINF:-1 tvg-id="139" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Asianet_2023_logo.png" group-title="Malayalam",Asianet TV
+#EXTINF:-1 tvg-id="ts292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Asianet_2023_logo.png" group-title="Malayalam",Asianet TV
 http://217.20.112.199/asianet/index.m3u8
 
 
