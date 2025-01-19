@@ -4402,27 +4402,31 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6939/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN IZ TV HD
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19078/index.m3u8
 
-#EXTINF:0 tvg-rec="3",DAZN 1 HD PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png", DAZN 1 HD PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 2 HD PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1024px-DAZN_2.svg.png", DAZN 2 HD PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 4 HD PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg", DAZN 3 HD PT
+http://176.65.146.108:8022/play/a073/index.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341", DAZN 4 HD PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 5 HD PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-5-uk-pt.svg", DAZN 5 HD PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 6 PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-6-uk-pt.svg", DAZN 6 PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2536/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 3 HD PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-6-uk-pt.svg", DAZN 6 HD PT
+http://176.65.146.108:8022/play/a074/index.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg", DAZN 3 HD PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN 6 HD PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-6-uk-pt.svg", DAZN 6 HD PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7064/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 1 HD DE
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png", DAZN 1 HD DE
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19042/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 2 HD DE
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1024px-DAZN_2.svg.png", DAZN 2 HD DE
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19043/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 1 PT
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png", DAZN 1 PT
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
-#EXTINF:0 tvg-rec="3",DAZN F1 ES
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png", DAZN F1 ES
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6071/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
@@ -5999,7 +6003,8 @@ https://cflare.mooo.com/hls/spix.m3u8
 
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png", Colors Infinity
 https://cflare.mooo.com/hls/colinf.m3u8
-
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png", Eleven Sports 2 HD
+http://176.65.146.108:8022/play/a072/index.m3u8
 
 
 
