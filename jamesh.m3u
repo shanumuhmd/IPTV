@@ -638,3 +638,9 @@ http://45.176.71.20:1689/play/a0pj
 http://45.176.71.20:1689/play/a0pi 
 #EXTINF:0,ZOOMO HD 
 http://45.176.71.20:1689/play/a07u
+#EXTINF:0,Ten Sports HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:0,beIN Sports 1 
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+#EXTINF:0,Arena Sports 1 
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
