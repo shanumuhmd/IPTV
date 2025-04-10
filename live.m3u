@@ -4,15 +4,34 @@
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png/revision/latest?cb=20150719162710" group-title="Sports", Star Sports 1
 https://www.tbn24.com/api/video/4028_0.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="Sports", GTV
-https://www.tbn24.com/api/video/4027_0.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="Sports", Sony Ten 1
 https://www.tbn24.com/api/video/4037_0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports", Sony Ten 2
 https://www.tbn24.com/api/video/4026_0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Sports", Sony Ten 5
 https://www.tbn24.com/api/video/4036_0.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports", Sony Ten 2
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports", T Sports
 https://www.tbn24.com/api/video/4031_0.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/wwe-logo-png-transparent.png" group-title="Sports", WWE
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Wwe/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://s.yimg.com/ny/api/res/1.2/MQQYPfn4twpZs3EtD3MTjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY4MQ--/https://media.zenfs.com/en/business-wire.com/38fae1592806691b6e3a0d1626e9649c" group-title="Sports", Willow Cricket
+http://xxip25.top:8080/DAFsm1/015993/58847
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="Sports", GTV
+https://www.tbn24.com/api/video/4027_0.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="Sports", Dazn 3
+http://xxip25.top:8080/DAFsm1/015993/167748
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341" group-title="Sports", Dazn 4
+http://xxip25.top:8080/DAFsm1/015993/167749
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-5-uk-pt.svg" group-title="Sports", Dazn 5
+http://xxip25.top:8080/DAFsm1/015993/167750
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg" group-title="Sports", Sport TV 1
+http://xxip25.top:8080/DAFsm1/015993/167742
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg" group-title="Sports", Sport TV 2
+http://xxip25.top:8080/DAFsm1/015993/167743
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sport_TV3_%282023%29.svg" group-title="Sports", Sport TV 3
+http://xxip25.top:8080/DAFsm1/015993/167744
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="Sports", Sport TV 4
+http://xxip25.top:8080/DAFsm1/015993/167745
+
