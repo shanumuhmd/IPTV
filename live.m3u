@@ -14,5 +14,5 @@ https://www.tbn24.com/api/video/4026_0.m3u8
 https://www.tbn24.com/api/video/4036_0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports", Sony Ten 2
 https://www.tbn24.com/api/video/4031_0.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg" group-title="Sports", WWE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/wwe-logo-png-transparent.png" group-title="Sports", WWE
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Wwe/playlist.m3u8
