@@ -35,3 +35,6 @@ http://xxip25.top:8080/DAFsm1/015993/167744
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="Sports", Sport TV 4
 http://xxip25.top:8080/DAFsm1/015993/167745
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s" group-title="Sports", Euro Sport
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
