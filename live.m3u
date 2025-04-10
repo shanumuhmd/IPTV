@@ -35,6 +35,36 @@ http://xxip25.top:8080/DAFsm1/015993/167744
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg" group-title="Sports", Sport TV 4
 http://xxip25.top:8080/DAFsm1/015993/167745
 
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1720526869.png" group-title="Sports", beIN Sports AFC 1
+http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274909&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1720526869.png" group-title="Sports", beIN Sports AFC 2
+http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274910&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1720526869.png" group-title="Sports", beIN Sports AFC 3
+http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274911&extension=ts
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
+http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/1871.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s" group-title="Sports", Euro Sport
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 
