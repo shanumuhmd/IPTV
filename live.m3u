@@ -7,17 +7,25 @@ https://www.tbn24.com/api/video/4028_0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
+https://criccoder.pages.dev/ss1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
 http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports", Star Sports 1 Select
 http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports", Star Sports 1 Hindi
 http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports", Star Sports 1 Hindi
+https://criccoder.pages.dev/ssh.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/gK415D7.png" group-title="Sports", Star Sports 1 Telugu
 http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/dfLSnsZ.png" group-title="Sports", Star Sports 1 Tamil
 http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="Sports", Star Sports 2
 http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="Sports", Star Sports 2 Hindi
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports", Star Sports 2 Select
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
@@ -31,12 +39,18 @@ https://www.tbn24.com/api/video/4026_0.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="Sports", Sony Ten 3
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/dVRMHM4.png" group-title="Sports", Sony Ten 4
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167595.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports", Sony Ten 5
 https://www.tbn24.com/api/video/4036_0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="Sports", Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="Sports", Ten Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="Sports", Ten Sports
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/K5XIFuW.png" group-title="Sports", Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports", T Sports
 https://www.tbn24.com/api/video/4031_0.m3u8
@@ -53,6 +67,12 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/v7nSm7M.png" group-title="Sports", Willow Cricket
 http://xxip25.top:8080/DAFsm1/015993/58847
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/v7nSm7M.png" group-title="Sports", Willow Cricket
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
+#EXTINF:-1 tvg-id=" " tvg-logo="https://faisaltv.com/upload/Willow%20Xtra.jpg" group-title="Sports", Willow Extra
+https://sports.bdixtv24.net/m3u8.php/willowextra.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://faisaltv.com/upload/Willow%20Xtra.jpg" group-title="Sports", Willow Extra
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1aRWrM9.png" group-title="Sports", Willow 2
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1aRWrM9.png" group-title="Sports", Willow 2
@@ -74,12 +94,41 @@ http://xxip25.top:8080/DAFsm1/015993/167744
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="Sports", Sport TV 4
 http://xxip25.top:8080/DAFsm1/015993/167745
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc1.png" group-title="Sports", SSC 1
+http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266420&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc1.png" group-title="Sports", SSC 1
+http://tv.kudigital.pw:8080/22012025KM/22012025/3674
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc2.png" group-title="Sports", SSC 2
+http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266419&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc2.png" group-title="Sports", SSC 2
+http://tv.kudigital.pw:8080/22012025KM/22012025/3675
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc3.png" group-title="Sports", SSC 3
+http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266418&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc3.png" group-title="Sports", SSC 3
+http://tv.kudigital.pw:8080/22012025KM/22012025/3676
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc4.png" group-title="Sports", SSC 4
+http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266417&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc4.png" group-title="Sports", SSC 4
+http://tv.kudigital.pw:8080/22012025KM/22012025/3677
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc5.png" group-title="Sports", SSC 5
+http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266416&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc5.png" group-title="Sports", SSC 5
+http://tv.kudigital.pw:8080/22012025KM/22012025/3678
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/scx1.png" group-title="Sports", SSC Extra 1
+http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266422&extension=ts
+
+
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports", Sky Sports Football
 http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports", Sky Sports Action
 http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
+https://criccoder.pages.dev/sky.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports", Sky Sports F1
 http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports", Sky Sports Golf
@@ -88,6 +137,27 @@ http://tv.cloudcdn.me:80/live.ts?channelId=283&uid=7245&deviceMac=00:1A:79:B0:A9
 http://tv.cloudcdn.me:80/live.ts?channelId=285&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="Sports", Sky Sports Premier League
 http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Sports", Sky Sports Laliga Mexico
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/ThJHEuN.png" group-title="Sports", Sky Sport 1 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky1nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/cu8yB69.png" group-title="Sports", Sky Sport 2 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky2nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/XYp3Ua3.png" group-title="Sports", Sky Sport 3 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky3nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/KUXs7SQ.png" group-title="Sports", Sky Sport 4 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky4nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/xgpKcYh.png" group-title="Sports", Sky Sport 5 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky5nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nyjD1dU.png" group-title="Sports", Sky Sport 6 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky6nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/iuTNWh4.png" group-title="Sports", Sky Sport 7 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky7nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/8YjqlRv.png" group-title="Sports", Sky Sport 8 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky8nz
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="Sports", Sky Sport 9 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky9nz
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/512px-Fox_league.svg.png" group-title="Sports", Fox Sports 502
 http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -99,6 +169,7 @@ http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274909&exte
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274910&extension=ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/ruRe9oj.png" group-title="Sports", beIN Sports AFC 3
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274911&extension=ts
+
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6123/index.m3u8
@@ -139,10 +210,13 @@ http://pro6666.com:8080/dr.davidhouri/598627/464599
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_09_hd.png?raw=true" group-title="Sports", beIN Sports 9
 http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/1880.ts
 
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports English
 http://tv.kudigital.pw:8080/22012025KM/22012025/3671
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports", beIN Sports Extra n
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="Sports", Tnt Sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
@@ -150,12 +224,17 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports", Tnt Sports 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports", Tnt Sports 4
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s" group-title="Sports", Euro Sport
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports", Eurosport 2
 http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/miyMp5p.png" group-title="Sports", Astro Cricket
+https://criccoder.pages.dev/astro.m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports", Manchester United TV
