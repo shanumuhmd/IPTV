@@ -45,14 +45,24 @@ http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274911&exte
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6123/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
+http://tv.kudigital.pw:8080/22012025KM/22012025/344
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", beIN Sports 2
 http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/132.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", beIN Sports 2
+http://tv.kudigital.pw:8080/22012025KM/22012025/345
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports", beIN Sports 3
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6124/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports", beIN Sports 3
+http://tv.kudigital.pw:8080/22012025KM/22012025/346
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="Sports", beIN Sports 4
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6125/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="Sports", beIN Sports 4
+http://tv.kudigital.pw:8080/22012025KM/22012025/347
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="Sports", beIN Sports 5
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6126/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="Sports", beIN Sports 5
+http://tv.kudigital.pw:8080/22012025KM/22012025/348
 #EXTINF:-1 tvg-id=" " tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_425_305" group-title="Sports", beIN Sports 6
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6127/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png" group-title="Sports", beIN Sports 7
@@ -62,8 +72,8 @@ http://pro6666.com:8080/dr.davidhouri/598627/464599
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Sports", beIN Sports 9
 http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/1880.ts
 
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Sports", beIN Sport English
+http://tv.kudigital.pw:8080/22012025KM/22012025/3671
 
 
 
@@ -76,4 +86,18 @@ http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/1880.ts
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s" group-title="Sports", Euro Sport
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
