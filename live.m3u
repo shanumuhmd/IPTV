@@ -47,13 +47,13 @@ http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274910&exte
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/1720526869.png" group-title="Sports", beIN Sports AFC 3
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274911&extension=ts
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6123/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://tv.kudigital.pw:8080/22012025KM/22012025/344
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", beIN Sports 2
 http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/132.ts
