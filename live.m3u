@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
 https://www.tbn24.com/api/video/4028_0.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
+#EXTINF:-2 tvg-id=" " tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports", Sony Ten 1
