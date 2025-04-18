@@ -323,8 +323,6 @@ http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302675.m3u8
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302692.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="Malayalam", Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Malayalam", Shalom TV
-http://familyip.vip/BC_1220/index.m3u8?token=4e6f8ed861a690cfea2e366a469099c6
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Malayalam", Safari TV
 http://familyip.vip/BC_1212/index.m3u8?token=4e6f8ed861a690cfea2e366a469099c6
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Malayalam", Safari TV
@@ -341,6 +339,8 @@ https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302676.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="Malayalam", Jaihind TV
 http://filex.tv:8080/live/aftab123/004090/499632.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="Malayalam", Jaihind TV
+https://livegeoroueu.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1744993979~exp=1744997579~acl=!*/260723/smil:jaihind1.smil/*!yuppTVCom_61_-1_1a6ebc10a6ab48fa_NL_169.150.218.57/payload/yuppTVCom_61_-1_1a6ebc10a6ab48fa_NL_169.150.218.57/*~hmac=adc8cb0e8d49c419a5e07b922e73750edc5ad85cfd4c8d133e172a971f1b89ac&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=MAL&amp;ads.content_genre=ENT&amp;ads.channel=307&amp;ads.channel_name=JaihindTV&amp;ads.network_name=yupptv&amp;ads.user=0
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NaiA73p.png" group-title="Malayalam", Jaihind TV
 https://dvr.anandmedia.net/anandmedia/jaihind_576/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="Malayalam", Kaumudi TV
@@ -387,22 +387,18 @@ http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1541546301.m3u8
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="Malayalam", Kaumudi TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Malayalam", Discovery Malayalam
-https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_2329382361801632554774391.png" group-title="Malayalam", N Vision News
 http://ipcloud.live:8080/nvision/nvisionhd.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0630354354644313045762268.png" group-title="Malayalam", Sky Music
-http://ipcloud.live:8080/nvision/skymusic.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam", Kite Victors
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Malayalam", India Life Pravasi TV
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Malayalam", Kerala Vision
 https://yuppparoriglin.akamaized.net/181224/smil:keralavision.smil/playlist.m3u8?hdnts=st=1744993049~exp=1744996649~acl=!*/181224/smil:keralavision.smil/*!yuppTVCom_61_-1_fd1131247dd84f84_NL_169.150.218.57/payload/yuppTVCom_61_-1_fd1131247dd84f84_NL_169.150.218.57/*~hmac=020cbb9fea6dcf8dcdf2821321aef94803d8fda85bbf09577cca6c24df34ccc5&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=MAL&amp;ads.content_genre=ENT&amp;ads.channel=1859&amp;ads.channel_name=KeralaVision&amp;ads.network_name=yupptv&amp;ads.user=0
-
-
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Darshana-TV-Logo.jpg" group-title="Malayalam", Darshana TV
+https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st=1744993805~exp=1744997405~acl=!*/181224/smil:darshanatv.smil/*!yuppTVCom_61_-1_96372ec57a764674_NL_169.150.218.57/payload/yuppTVCom_61_-1_96372ec57a764674_NL_169.150.218.57/*~hmac=01808f8f96fba31c9ddb9b5f595d22ef6c2221e914b682f0d840270d9418af34&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=MAL&amp;ads.content_genre=ENT&amp;ads.channel=3354&amp;ads.channel_name=DarshanaTV&amp;ads.network_name=yupptv&amp;ads.user=0
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="Malayalam", News 18 Kerala
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8?__hdnea__=st=1744949591~exp=1745035991~acl=/*~hmac=24c502a12079948d0b9540a1514702248b578ade0128e87be38d89d9156d9971
 
 
 
