@@ -397,8 +397,8 @@ http://ipcloud.live:8080/nvision/skymusic.m3u8
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Malayalam", India Life Pravasi TV
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Malayalam", Kerala Vision
+https://yuppparoriglin.akamaized.net/181224/smil:keralavision.smil/playlist.m3u8?hdnts=st=1744993049~exp=1744996649~acl=!*/181224/smil:keralavision.smil/*!yuppTVCom_61_-1_fd1131247dd84f84_NL_169.150.218.57/payload/yuppTVCom_61_-1_fd1131247dd84f84_NL_169.150.218.57/*~hmac=020cbb9fea6dcf8dcdf2821321aef94803d8fda85bbf09577cca6c24df34ccc5&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=MAL&amp;ads.content_genre=ENT&amp;ads.channel=1859&amp;ads.channel_name=KeralaVision&amp;ads.network_name=yupptv&amp;ads.user=0
 
 
 
