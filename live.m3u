@@ -301,6 +301,12 @@ http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302672.m3u8
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302673.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", Kairali WE
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="Malayalam", Kairali News
+https://cdn-3.pishow.tv/live/1469/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="Malayalam", Jeevan TV
+https://cdn-3.pishow.tv/live/1467/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="Malayalam", Janam TV
+https://cdn-3.pishow.tv/live/1466/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam", Asianet
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302691.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam", Asianet
@@ -385,6 +391,10 @@ https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 http://ipcloud.live:8080/nvision/nvisionhd.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0630354354644313045762268.png" group-title="Malayalam", Sky Music
 http://ipcloud.live:8080/nvision/skymusic.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam", Kite Victors
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Malayalam", India Life Pravasi TV
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 
 
