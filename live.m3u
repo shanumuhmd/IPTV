@@ -312,6 +312,8 @@ https://cdn-3.pishow.tv/live/1466/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam", Asianet
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302691.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam", Asianet
+http://217.20.112.199/asianet/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Malayalam", Asianet
 http://cinesoft.b-cdn.net/anandmedia/asianet_576/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/qg1IhV8.png" group-title="Malayalam", Asianet Plus
 https://dvr.anandmedia.net/anandmedia/asianetplus_576/index.m3u8
@@ -333,6 +335,8 @@ https://cinesoft.b-cdn.net/anandmedia/suryahd_576/index.m3u8
 http://familyip.vip/BC_1208/index.m3u8?token=4e6f8ed861a690cfea2e366a469099c6
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Malayalam", Zee Keralam
 http://familyip.vip/BC_1204/index.m3u8?token=4e6f8ed861a690cfea2e366a469099c6
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Malayalam", Zee Keralam
+https://live.drmlive-02.workers.dev/zee/129.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="Malayalam", Zee News Malayalam
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Malayalam", Amrita TV
@@ -401,6 +405,8 @@ https://yuppparoriglin.akamaized.net/181224/smil:keralavision.smil/playlist.m3u8
 https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st=1744993805~exp=1744997405~acl=!*/181224/smil:darshanatv.smil/*!yuppTVCom_61_-1_96372ec57a764674_NL_169.150.218.57/payload/yuppTVCom_61_-1_96372ec57a764674_NL_169.150.218.57/*~hmac=01808f8f96fba31c9ddb9b5f595d22ef6c2221e914b682f0d840270d9418af34&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=MAL&amp;ads.content_genre=ENT&amp;ads.channel=3354&amp;ads.channel_name=DarshanaTV&amp;ads.network_name=yupptv&amp;ads.user=0
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="Malayalam", News 18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8?__hdnea__=st=1744949591~exp=1745035991~acl=/*~hmac=24c502a12079948d0b9540a1514702248b578ade0128e87be38d89d9156d9971
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Malayalam", Kappa TV
+https://live.drmlive-02.workers.dev/yupptv/fta/kappa-tv.m3u8
 
 
 
