@@ -88,12 +88,73 @@ http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7245&deviceMac=00:1A:79:B0:A9
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1aRWrM9.png" group-title="Sports", Willow 2
 http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Sports", True Premier 1
+http://31.220.3.103:2095/play/live.php?mac=00%3A1A%3A79%3A80%3A09%3A03&stream=186562&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/JGXzw5v.png" group-title="Sports", True Sports 1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186604&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/l11xhF2.png" group-title="Sports", True Sports 2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186601&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/rsAqjtw.png" group-title="Sports", True Sports 3
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186602&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/XlIQTJR.png" group-title="Sports", True Sports 5
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186605&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bW79Nal.png" group-title="Sports", True Sports 7
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186599&extension=m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports", Spotv 1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186478&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports", Spotv 1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186479&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports", Spotv 2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186481&extension=m3u8&play_token=
+
+#EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/8zupSOw.png" group-title="Sports", V sport Football
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/11110/index.m3u8
+#EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/p6FRBzP.png" group-title="Sports", V sport 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=317662&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/W6z4wAY.png" group-title="Sports", V sport 3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=317663&extension=m3u8&play_token=
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sports", Canal+ Sport
+http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121228
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports", Dazn 1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=71203&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports", Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2531/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports", Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19042/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports", Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports", Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports", Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19043/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports", Eleven Sports 2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=71206&extension=m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports", Dazn 3
 http://xxip25.top:8080/DAFsm1/015993/167748
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports", Dazn 3
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=71209&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="Sports", Dazn 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports", Dazn 4
 http://xxip25.top:8080/DAFsm1/015993/167749
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports", Dazn 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports", Dazn 5
 http://xxip25.top:8080/DAFsm1/015993/167750
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports", Dazn 5
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports", Dazn 5
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=71211&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/CdbEpFC.png" group-title="Sports", Dazn 6
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2536/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/CdbEpFC.png" group-title="Sports", Dazn 6
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7064/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YWic36u.png" group-title="Sports", Sport TV 1
 http://xxip25.top:8080/DAFsm1/015993/167742
@@ -103,6 +164,15 @@ http://xxip25.top:8080/DAFsm1/015993/167743
 http://xxip25.top:8080/DAFsm1/015993/167744
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/mJlbVfW.png" group-title="Sports", Sport TV 4
 http://xxip25.top:8080/DAFsm1/015993/167745
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Sports", Digi Sport 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports", Digi Sport 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports", Digi Sport 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports", Digi Sport 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/sc1.png" group-title="Sports", SSC 1
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266420&extension=ts
@@ -129,16 +199,22 @@ http://tv.kudigital.pw:8080/22012025KM/22012025/3678
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/a/scx1.png" group-title="Sports", SSC Extra 1
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266422&extension=ts
 
-
-
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports", Sky Sports Football
 http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports", Sky Sports Football
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7336/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports", Sky Sports Action
 http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/663193
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
+http://nks24.com:8080/play/live.php?mac=00:1A:79:C2:94:BA&stream=268926&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
+http://kstv.us:8080/tH300gvHff/8606073792/47634
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports", Sky Sports Cricket
 https://criccoder.pages.dev/sky.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports", Sky Sports F1
@@ -175,6 +251,10 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky9nz
 http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports", beIN Sports Max 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19065/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="Sports", beIN Sports Max 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19066/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nk3JCpg.png" group-title="Sports", beIN Sports AFC 1
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274909&extension=ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/WITLbxq.png" group-title="Sports", beIN Sports AFC 2
@@ -182,7 +262,8 @@ http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274910&exte
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/ruRe9oj.png" group-title="Sports", beIN Sports AFC 3
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274911&extension=ts
 
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/TTxh9tZ.png" group-title="Sports", beIN 4K UCL
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=245278&extension=m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6123/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
@@ -195,6 +276,8 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
 http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/132.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
 http://tv.kudigital.pw:8080/22012025KM/22012025/345
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2 HD
@@ -261,6 +344,20 @@ http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=7245&deviceMac=00:1A:79:B0:A9
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/miyMp5p.png" group-title="Sports", Astro Cricket
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302665.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/miyMp5p.png" group-title="Sports", Astro Cricket
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=341544&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="Sports", Astro Arena
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=341536&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="Sports", Astro Premier League 1
+http://vocotv.pro:80/live/victor/1234/663949.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="Sports", Astro Premier League 1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186387&extension=m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="Sports", Astro Premier League 2
+http://vocotv.pro:80/live/victor/1234/663948.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="Sports", Astro Premier League 2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186388&extension=ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/800px-Astro_Grandstand_%282024%29.png" group-title="Sports", Astro Grandstand
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=341541&extension=m3u8
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports", Manchester United TV
