@@ -109,6 +109,9 @@ http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186479&exten
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports", Spotv 2
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186481&extension=m3u8&play_token=
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="Sports", Trace Sports 
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/8zupSOw.png" group-title="Sports", V sport Football
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/11110/index.m3u8
 #EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/p6FRBzP.png" group-title="Sports", V sport 2
@@ -272,8 +275,12 @@ http://tv.kudigital.pw:8080/22012025KM/22012025/344
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://3.team.ga/ch230/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1 HD
 http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports 1 English
+http://3.team.ga/ch227/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
 http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/132.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
@@ -282,6 +289,8 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 http://tv.kudigital.pw:8080/22012025KM/22012025/345
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2 HD
 http://www.teledunet.com:8080/tdn/tdn/456488.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+http://3.team.ga/ch228/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6124/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
@@ -294,10 +303,14 @@ http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6125/index.m3u8
 http://www.teledunet.com:8080/tdn/tdn/456490.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
 http://tv.kudigital.pw:8080/22012025KM/22012025/347
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
+http://3.team.ga/ch231/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6126/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
 http://tv.kudigital.pw:8080/22012025KM/22012025/348
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
+http://3.team.ga/ch229/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5 HD
 http://www.teledunet.com:8080/tdn/tdn/456491.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
@@ -327,10 +340,14 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="Sports", Tnt Sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="Sports", Tnt Sports 1
+http://3.team.ga/ch236/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="Sports", Tnt Sports 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports", Tnt Sports 3
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="Sports", Tnt Sports 3
+http://3.team.ga/ch233/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports", Tnt Sports 4
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 
