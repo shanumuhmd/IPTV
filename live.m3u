@@ -269,11 +269,26 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky8nz
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="Sports", Sky Sport 9 Nz
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky9nz
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/512px-Fox_league.svg.png" group-title="Sports", Fox Sports 502
-http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="Sports", Fox Sports 501
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox501
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="Sports", Fox Sports 501
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605601
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/512px-Fox_league.svg.png" group-title="Sports", Fox Sports 502
+http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/512px-Fox_league.svg.png" group-title="Sports", Fox Sports 502
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605602
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/FoxSports503_HD.png/revision/latest?cb=20190709144525" group-title="Sports", Fox Sports 503
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605599
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="Sports", Fox Sports 504
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605606
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FoxSports505_HD.png/revision/latest?cb=20190709150045" group-title="Sports", Fox Sports 505
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605597
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest/scale-to-width-down/250?cb=20180916115509" group-title="Sports", Fox Sports 506
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605596
+#EXTINF:-1 tvg-id=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Fox-sports-more-colour.png/revision/latest/scale-to-width-down/250?cb=20170428053105" group-title="Sports", Fox Sports 507
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605595
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="Sports", Fox Sports 508
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C8:8A:19&stream=554738&extension=ts
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports", beIN Sports Max 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19065/index.m3u8
@@ -643,6 +658,50 @@ https://live.drmlive-02.workers.dev/zee/129.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="Malayalam", Zee News Malayalam
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+
+
+
+
+
+
+
+
+====================================================================================================================================
+DOCUMENTARY
+====================================================================================================================================
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet
+http://xtv.ooo:8080/live/874246786/743567899/383997.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet
+http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet USA
+https://bit.ly/AnimalsPluto?.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Documentary", Discovery
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Documentary", Discovery
+http://41.205.93.154/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="Documentary", History Channel
+http://38.96.178.201:80/live/History/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary", BBC Earth
+https://is.gd/hjGipy?BBC_Earth.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary", Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="Documentary", Food Network
+http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+
+
+
+
 
 
 
