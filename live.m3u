@@ -45,6 +45,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9
 https://www.tbn24.com/api/video/4026_0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports", Sony Ten 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports", Sony Ten 2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=297530&extension=m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="Sports", Sony Ten 3
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/dVRMHM4.png" group-title="Sports", Sony Ten 4
@@ -106,22 +108,39 @@ http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186599&exten
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186478&extension=m3u8&play_token=
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports", Spotv 1
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186479&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports", Spotv 1
+http://golive.yn.lt/stream/spotv/01.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports", Spotv 2
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186481&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports", Spotv 2
+http://golive.yn.lt/stream/spotv/02.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="Sports", Trace Sports 
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bQvS1E8.png" group-title="Sports", Nova Sports 
+http://itmediagroups.com:80/Denis@came@Mahmuljin@gmail.com/6MfNW37zZdJVjfjd36/117889
+
 #EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/8zupSOw.png" group-title="Sports", V sport Football
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/11110/index.m3u8
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=250768&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/8zupSOw.png" group-title="Sports", V sport Football
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/647947
+#EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/ERWOdjs.png" group-title="Sports", V sport 1
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/647946
 #EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/p6FRBzP.png" group-title="Sports", V sport 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=317662&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/p6FRBzP.png" group-title="Sports", V sport 2
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/647951
 #EXTINF:-1 tvg-id="VSport2.se" tvg-logo="https://i.imgur.com/W6z4wAY.png" group-title="Sports", V sport 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=317663&extension=m3u8&play_token=
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sports", Canal+ Sport
-http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/121228
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Said4EJ.png" group-title="Sports", Canal+ Sport 1
+http://eu58.xyz:8080/play/live.php?mac=00:1A:79:3B:88:E3&stream=8481&extension=ts&play_token=7vZkG174sS
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="Sports", Canal+ Sport 2
+http://eu58.xyz:8080/play/live.php?mac=00:1A:79:3B:88:E3&stream=8482&extension=ts&play_token=d66SstHB0i
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/QZwPFa8.png" group-title="Sports", Canal+ Sport 3
+http://eu58.xyz:8080/play/live.php?mac=00:1A:79:3B:88:E3&stream=55296&extension=ts&play_token=q04zUwfQdV
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports", Dazn 1
@@ -252,6 +271,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky9nz
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/512px-Fox_league.svg.png" group-title="Sports", Fox Sports 502
 http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="Sports", Fox Sports 501
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox501
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports", beIN Sports Max 1
@@ -279,6 +300,8 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 http://3.team.ga/ch230/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1 HD
 http://www.teledunet.com:8080/tdn/tdn/456487.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186537&extension=m3u8&play_token=
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports 1 English
 http://3.team.ga/ch227/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
@@ -329,6 +352,8 @@ http://pro6666.com:8080/dr.davidhouri/598627/464599
 http://obsfullhd.tv:25461/live/Nachitsimo/Uwz2FRD6sfHu/1880.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_09_hd.png?raw=true" group-title="Sports", beIN Sports 9 HD
 http://www.teledunet.com:8080/tdn/tdn/456495.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wq2jxEuzaRuEt8PFAQC3IZC8BDQA-xorwA&s" group-title="Sports", beIN Sports 10
+http://pro6666.com:8080/dr.davidhouri/598627/421404
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports English
@@ -336,7 +361,16 @@ http://tv.kudigital.pw:8080/22012025KM/22012025/3671
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports", beIN Sports Extra n
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/353px-Polsat_Sport_1_2024.svg.png" group-title="Sports", Polsat Sport 1
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/518245
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/375px-Polsat_Sport_2_2024.svg.png" group-title="Sports", Polsat Sport 2
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/518246
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Sports", Polsat Sport 1 Premium HD
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/518250
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Sports", Polsat Sport 2 Premium HD
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/518252
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/leFNP03.png" group-title="Sports", Polsat Sport 3 Premium HD
+http://defaultgen.com:3050/surisel0728%40gmail.com/pPrHpznaLn/518253
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="Sports", Tnt Sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
@@ -354,6 +388,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s" group-title="Sports", Euro Sport
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s" group-title="Sports", Euro Sport
+https://CRICHDplaylist.extratvteam.workers.dev/master.m3u8?cid=eurosp1&e=.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports", Eurosport 2
 http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
@@ -365,6 +401,8 @@ http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302665.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=341544&extension=m3u8&play_token=
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="Sports", Astro Arena
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=341536&extension=m3u8&play_token=
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="Sports", Astro Arena
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=341536&extension=m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="Sports", Astro Premier League 1
 http://vocotv.pro:80/live/victor/1234/663949.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="Sports", Astro Premier League 1
