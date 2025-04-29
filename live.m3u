@@ -247,6 +247,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=283&uid=7245&deviceMac=00:1A:79:B0:A9
 http://tv.cloudcdn.me:80/live.ts?channelId=285&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="Sports", Sky Sports Premier League
 http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="Sports", Sky Sports Premier League
+https://m5.merichunidya.com:999/hls/superpremier.m3u8?md5=6i1k56R_t_6cKBvR-EIxDQ&expires=1745966846
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Sports", Sky Sports Laliga Mexico
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
@@ -270,7 +272,7 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky8nz
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky9nz
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="Sports", Fox Sports 501
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox501
+https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="Sports", Fox Sports 501
 http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605601
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/512px-Fox_league.svg.png" group-title="Sports", Fox Sports 502
