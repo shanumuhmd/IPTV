@@ -161,14 +161,30 @@ http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C8:8A:19&stream=554738&exten
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports", beIN Sports Max 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19065/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/FjWQjdy.png" group-title="Sports", beIN Sports Max 1
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/196273
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="Sports", beIN Sports Max 2
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19066/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/5dBc5rn.png" group-title="Sports", beIN Sports Max 2
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/196274
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nk3JCpg.png" group-title="Sports", beIN Sports AFC 1
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274909&extension=ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/WITLbxq.png" group-title="Sports", beIN Sports AFC 2
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274910&extension=ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/ruRe9oj.png" group-title="Sports", beIN Sports AFC 3
 http://zadyma.online:8880/play/live.php?mac=00:1A:79:01:7F:7E&stream=274911&extension=ts
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports 1 English
+http://3.team.ga/ch227/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports 1 English
+http://islacam.live:8080/live/7c%3A0a%3A3f%3Ada%3A7f%3A0a/a3fCQ2y/8e1dd6f8-c789-4a47-a26e-9d1082bb26ef.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports 1 English
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/2531
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports 1 English
+http://kstv.us:8080/tH300gvHff/8606073792/12554
+
+
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6123/index.m3u8
@@ -178,30 +194,94 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
 http://3.team.ga/ch230/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/uqVwDrB.png" group-title="Sports", beIN Sports 1 English
-http://3.team.ga/ch227/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122212
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://pro6666.com:8080/dr.davidhouri/598627/421379
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/272468
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1162637
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
 http://3.team.ga/ch228/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122213
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+http://pro6666.com:8080/dr.davidhouri/598627/421383
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+http://pro6666.com:8080/dr.davidhouri/598627/464603
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+http://kstv.us:8080/tH300gvHff/8606073792/12553
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/10697
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6124/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122214
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
+http://pro6666.com:8080/dr.davidhouri/598627/421389
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
+http://kstv.us:8080/tH300gvHff/8606073792/12552
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/10696
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6125/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
 http://3.team.ga/ch231/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122215
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
+http://pro6666.com:8080/dr.davidhouri/598627/421393
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
+http://kstv.us:8080/tH300gvHff/8606073792/12551
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/44446
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6126/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
 http://3.team.ga/ch229/mono.m3u8?token=mkoyan01.gggvuQb0_PS58ZmHycUdsbnjnLW-Vvju1blhixmRiIU2k4t02PV82bCKtl_FSfvN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122216
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
+http://pro6666.com:8080/dr.davidhouri/598627/421395
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
+http://kstv.us:8080/tH300gvHff/8606073792/12550
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/314885
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6127/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122217
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
+http://pro6666.com:8080/dr.davidhouri/598627/421397
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
+http://kstv.us:8080/tH300gvHff/8606073792/12549
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6128/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122218
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
+http://pro6666.com:8080/dr.davidhouri/598627/421399
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
+http://kstv.us:8080/tH300gvHff/8606073792/12548
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_08_hd.png?raw=true" group-title="Sports", beIN Sports 8
 http://pro6666.com:8080/dr.davidhouri/598627/464599
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_08_hd.png?raw=true" group-title="Sports", beIN Sports 8
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122219
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_08_hd.png?raw=true" group-title="Sports", beIN Sports 8
+http://pro6666.com:8080/dr.davidhouri/598627/421400
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_08_hd.png?raw=true" group-title="Sports", beIN Sports 8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47801&extension=ts&play_token=T9r4Z90cIV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_09_hd.png?raw=true" group-title="Sports", beIN Sports 9
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122220
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_09_hd.png?raw=true" group-title="Sports", beIN Sports 9
+http://pro6666.com:8080/dr.davidhouri/598627/421402
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_09_hd.png?raw=true" group-title="Sports", beIN Sports 9
+http://kstv.us:8080/tH300gvHff/8606073792/12546
 #EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wq2jxEuzaRuEt8PFAQC3IZC8BDQA-xorwA&s" group-title="Sports", beIN Sports 10
 http://pro6666.com:8080/dr.davidhouri/598627/421404
 
@@ -236,6 +316,8 @@ http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302665.m3u8
 http://vocotv.pro:80/live/victor/1234/663949.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="Sports", Astro Premier League 2
 http://vocotv.pro:80/live/victor/1234/663948.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="Sports", Astro Premier League 2
+http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports", Manchester United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
