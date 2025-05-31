@@ -423,11 +423,11 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="Malayalam", Kairali News
 https://live.drmlive-02.workers.dev/yupptv/fta/people-tv.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", Kairali WE TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam",Kairali WE TV
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302673.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", Kairali WE TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam",Kairali WE TV
 https://cdn-3.pishow.tv/live/1530/master.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", Kairali WE TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam",Kairali WE TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Malayalam", Kappa TV
@@ -478,7 +478,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam", Mazhavil Manorama HD
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302677.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam", Media One TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam", Media One
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="Malayalam", News 18 Kerala
