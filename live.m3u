@@ -335,7 +335,7 @@ MALAYALAM - മലയാളം
 
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="Malayalam", 24 News Malayalam
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="Malayalam", Twenty Four News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Malayalam", Amrita TV
@@ -375,7 +375,7 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 http://cloud.logichost.in:1935/live/citi/chunklist_w2041544842.m3u8
 
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="Malayalam", Discovery Malayalam
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="Malayalam", Discovery Channel Malayalam
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="Malayalam", Discovery Kids Malayalam
@@ -392,9 +392,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://i.imgur.com/KnbwUyb.png" group-title="Malayalam", Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Aoq6mpT.png" group-title="Malayalam", Harvest TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/Aoq6mpT.png" group-title="Malayalam", Harvest TV 24x7
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Malayalam", Harvest TV Kerala
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Malayalam", Harvest TV Keralam
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Malayalam", India Life Pravasi TV
@@ -423,19 +423,19 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="Malayalam", Kairali News
 https://live.drmlive-02.workers.dev/yupptv/fta/people-tv.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", Kairali WE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", We TV
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302673.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", Kairali WE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", We TV
 https://cdn-3.pishow.tv/live/1530/master.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", Kairali WE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Malayalam", We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="Malayalam", Kappa TV
 https://live.drmlive-02.workers.dev/yupptv/fta/kappa-tv.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="Malayalam", Kaumudi TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="Malayalam", Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="Malayalam", Kaumudi TV
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="Malayalam", Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Malayalam", KCL TV
@@ -444,7 +444,7 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Malayalam", Kerala Vision
 https://live.drmlive-02.workers.dev/yupptv/fta/kerala-vision.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam", Kite Victors
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Malayalam", Kite Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Malayalam", Magna Vision
@@ -478,7 +478,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam", Mazhavil Manorama HD
 http://webxapp.xyz:8080/live/pf4NDv2T9Nrn/qF3pgVgJ2bmz/302677.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam", MediaOne TV
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam", Media One TV
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="Malayalam", News 18 Kerala
@@ -496,7 +496,7 @@ https://live.drmlive-02.workers.dev/yupptv/fta/power-vision-tv.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam", Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="Malayalam", Real News
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/8hnJuxa.png" group-title="Malayalam", Real News Kerala
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="Malayalam", Reporter TV
