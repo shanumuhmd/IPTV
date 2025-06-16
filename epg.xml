@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "https://iptvx.one/xmltv.dtd">
+<tv generator-info-name="IptvX|one" generator-info-url="https://iptvx.one/">
+<channel id="0x0-fireplace-hd"><display-name>Горящий камин</display-name><display-name>Ланет HOME</display-name><display-name>Lanet Home</display-name><icon src="https://iptvx.one/picons/kamin.png"/></channel>
+<channel id="1-2"><display-name>1+2</display-name><display-name>1+2 HD</display-name><icon src="https://iptvx.one/picons/1-2.png"/></channel>
+<channel id="10-rentv"><display-name>10 канал / РенТВ Саранск</display-name><icon src="https://iptvx.one/picons/10-rentv.png"/></channel>
+<channel id="10kanal-novokuzneck"><display-name>10 канал Новокузнецк</display-name><display-name>Десятка</display-name><icon src="https://iptvx.one/picons/10kanal-novokuzneck.png"/></channel>
+<channel id="11kanal"><display-name>11 канал Днепр</display-name><display-name>11 канал (Днепр)</display-name><icon src="https://iptvx.one/picons/11kanal.png"/></channel>
+<channel id="11kanal-usole"><display-name>11 канал (Усолье)</display-name><display-name>Феникс</display-name><display-name>Феникс (Усолье-Сибирское)</display-name><display-name>Феникс (Усолье)</display-name><icon src="https://iptvx.one/picons/11kanal-usole.png"/></channel>
+<channel id="12-omsk"><display-name>12 канал Омск</display-name><display-name>12 канал (Омск)</display-name><icon src="https://iptvx.one/picons/12-omsk.png"/></channel>
+<channel id="13-strt"><display-name>13th Street</display-name><display-name>13th Street HD</display-name><icon src="https://iptvx.one/picons/13-strt.png"/></channel>
+<channel id="13ulica-pl"><display-name>13 Ulica [PL]</display-name><icon src="https://iptvx.one/picons/13ulica-pl.png"/></channel>
+<channel id="1auto"><display-name>Перший автомобільний</display-name><display-name>Первый автомобильный</display-name><display-name>1 автомобильный</display-name><display-name>1 авто</display-name><icon src="https://iptvx.one/picons/1auto.png"/></channel>
+<channel id="1hd"><display-name>1HD Music</display-name><display-name>1HD Music Television</display-name><icon src="https://iptvx.one/picons/1hd-music.png"/></channel>
+<channel id="1obl-blagoveschensk"><display-name>Первый областной Благовещенск</display-name><display-name>Амурское областное телевидение</display-name><icon src="https://iptvx.one/picons/1obl-blagoveschensk.png"/></channel>
+<channel id="1plus1"><display-name>1+1</display-name><display-name>1+1 HD</display-name><display-name>1+1 Марафон</display-name><display-name>1+1 Марафон HD</display-name><icon src="https://iptvx.one/picons/1plus1.png"/></channel>
+<channel id="1plus1-int"><display-name>1+1 International</display-name><display-name>1+1 Int</display-name><display-name>1+1 International HD</display-name><display-name>1+1 Международный</display-name><display-name>1+1 Международный HD</display-name><icon src="https://iptvx.one/picons/1plus1-int.png"/></channel>
+<channel id="1plus1-ukraina"><display-name>1+1 Україна</display-name><display-name>1+1 Україна HD</display-name><icon src="https://iptvx.one/picons/1plus1-ukraina.png"/></channel>
+<channel id="2-kanal-mogilev"><display-name>ТВ2 Могилёв</display-name><display-name>ТВ2 Могилев</display-name><display-name>2 канал Могилев</display-name><display-name>2 канал Могилёв</display-name><icon src="https://iptvx.one/picons/2-kanal-mogilev.png"/></channel>
+<channel id="21-kanal-uzhgorod"><display-name>21 канал Ужгород</display-name><display-name>21 канал (Ужгород)</display-name><icon src="https://iptvx.one/picons/21-kanal-uzhgorod.png"/></channel>
+<channel id="24news-ua"><display-name>24 Украина</display-name><display-name>24 Канал</display-name><display-name>Телеканал новостей 24</display-name><display-name>24 Украина HD</display-name><display-name>24 новости</display-name><display-name>24 новини</display-name><display-name>24 новости HD</display-name><display-name>24 новини HD</display-name><icon src="https://iptvx.one/picons/24news-ua.png"/></channel>
+<channel id="25-region-vladik"><display-name>25 регион (Владивосток)</display-name><icon src="https://iptvx.one/picons/25-region-vladik.png"/></channel>
+<channel id="26-region"><display-name>26 регион</display-name><icon src="https://iptvx.one/picons/26-region.png"/></channel>
+<channel id="2na2"><display-name>2x2</display-name><display-name>2x2 HD</display-name><icon src="https://iptvx.one/picons/2na2.png"/></channel>
+<channel id="2na2-pl2"><display-name>2x2 (+2)</display-name><display-name>2x2 HD (+2)</display-name><icon src="https://iptvx.one/picons/2na2-pl2.png"/></channel>
+<channel id="2na2-pl4"><display-name>2x2 (+4)</display-name><display-name>2x2 HD (+4)</display-name><icon src="https://iptvx.one/picons/2na2-pl4.png"/></channel>
+<channel id="2na2-pl7"><display-name>2x2 (+7)</display-name><display-name>2x2 HD (+7)</display-name><icon src="https://iptvx.one/picons/2na2-pl7.png"/></channel>
+<channel id="2plus2"><display-name>2+2</display-name><display-name>2+2 HD</display-name><icon src="https://iptvx.one/picons/2plus2.png"/></channel>
+<channel id="3-plus-ee"><display-name>TV3 Gold [EE]</display-name><display-name>3+ [EE]</display-name><icon src="https://iptvx.one/picons/3-plus-ee.png"/></channel>
+<channel id="3-plus-latvia"><display-name>3+ (Латвия)</display-name><display-name>3+ [LV]</display-name><icon src="https://iptvx.one/picons/3-plus-latvia.png"/></channel>
+<channel id="31-kanal-chelyabinsk"><display-name>31 канал (Челябинск)</display-name><display-name>31 канал</display-name><icon src="https://iptvx.one/picons/31-kanal-chelyabinsk.png"/></channel>
+<channel id="31-kanal-kz"><display-name>31 канал (Казахстан)</display-name><display-name>31 канал [KZ]</display-name><icon src="https://iptvx.one/picons/31-kanal-kz.png"/></channel>
+<channel id="312-kino"><display-name>312 Кино</display-name><display-name>312 Кино HD</display-name><icon src="https://iptvx.one/picons/312-kino.png"/></channel>
+<channel id="312-music"><display-name>312 Музыка</display-name><display-name>312 Музыка HD</display-name><icon src="https://iptvx.one/picons/312-music.png"/></channel>
+<channel id="312-serial"><display-name>312 Сериал</display-name><display-name>312 Сериал HD</display-name><icon src="https://iptvx.one/picons/312-serial.png"/></channel>
+<channel id="36-6-tv"><display-name>36,6 TV</display-name><display-name>36.6 TV</display-name><display-name>36,6 HD</display-name><display-name>36.6 HD</display-name><icon src="https://iptvx.one/picons/36-6-tv.png"/></channel>
+<channel id="360-int"><display-name>360° International</display-name><display-name>360° Международный</display-name><icon src="https://iptvx.one/picons/360-int.png"/></channel>
+<channel id="360-lv"><display-name>360TV (Латвия)</display-name><display-name>360 (Латвия)</display-name><display-name>360 [LV]</display-name><display-name>360TV [LV]</display-name><icon src="https://iptvx.one/picons/360-lv.png"/></channel>
+<channel id="360-news"><display-name>360° Новости</display-name><display-name>360 Новости</display-name><icon src="https://iptvx.one/picons/360-news.png"/></channel>
+<channel id="360-podmoskovie"><display-name>360° Подмосковье</display-name><display-name>Телеканал 360</display-name><display-name>360° Подмосковье HD</display-name><display-name>360 Подмосковье</display-name><display-name>360 Подмосковье HD</display-name><display-name>Подмосковье</display-name><display-name>360</display-name><display-name>360 HD</display-name><icon src="https://iptvx.one/picons/360-podmoskovie.png"/></channel>
+<channel id="360-tunebox"><display-name>360TuneBox</display-name><display-name>360 TuneBox</display-name><icon src="https://iptvx.one/picons/360-tunebox.png"/></channel>
+<channel id="365-dnej"><display-name>365 дней ТВ</display-name><display-name>365 дней</display-name><display-name>365 дней HD</display-name><display-name>365 дней ТВ HD</display-name><icon src="https://iptvx.one/picons/365-dnej.png"/></channel>
+<channel id="41region"><display-name>41 регион (Петропавловск-Камчатский)</display-name><display-name>41 регион</display-name><icon src="https://iptvx.one/picons/41region.png"/></channel>
+<channel id="43-tuapse"><display-name>43 канал (Туапсе)</display-name><icon src="https://iptvx.one/picons/43-tuapse.png"/></channel>
+<channel id="49kanal"><display-name>49 канал</display-name><display-name>49 канал Новосибирск</display-name><icon src="https://iptvx.one/picons/49kanal.png"/></channel>
+<channel id="4ever-cinema"><display-name>4ever Cinema</display-name><display-name>4ever Cinema HD</display-name><icon src="https://iptvx.one/picons/4ever-cinema.png"/></channel>
+<channel id="4ever-drama"><display-name>4ever Drama</display-name><display-name>4ever Drama HD</display-name><icon src="https://iptvx.one/picons/4ever-drama.png"/></channel>
+<channel id="4ever-music"><display-name>4ever Music</display-name><display-name>4ever Music HD</display-name><icon src="https://iptvx.one/picons/4ever-music.png"/></channel>
+<channel id="4ever-theater"><display-name>4ever Theater</display-name><display-name>4ever Theater HD</display-name><icon src="https://iptvx.one/picons/4ever-theater.png"/></channel>
+<channel id="4fun"><display-name>4fun</display-name><display-name>4fun.TV</display-name><display-name>4fun.TV HD</display-name><icon src="https://iptvx.one/picons/4fun.png"/></channel>
+<channel id="4fun-dance"><display-name>4fun Fit&amp;Dance</display-name><display-name>4fun Dance</display-name><icon src="https://iptvx.one/picons/4fun-dance.png"/></channel>
+<channel id="4fun-gold"><display-name>4fun Kids</display-name><display-name>4fun Gold</display-name><display-name>4fun Gold Hits</display-name><display-name>4fun Hits</display-name><icon src="https://iptvx.one/picons/4fun-kids.png"/></channel>
+<channel id="4k-ruskino"><display-name>4K Русское кино</display-name><display-name>4К Русское кино</display-name><icon src="https://iptvx.one/picons/4k-ruskino.png"/></channel>
+<channel id="4kanal-piatnica"><display-name>4 канал (Екатеринбург)</display-name><display-name>4 канал + Пятница</display-name><icon src="https://iptvx.one/picons/4kanal-piatnica.png"/></channel>
+<channel id="5-am"><display-name>5 TV (Армения)</display-name><display-name>5 TV [AM]</display-name><icon src="https://iptvx.one/picons/5-am.png"/></channel>
+<channel id="51kanal"><display-name>UA:Дніпро</display-name><display-name>UA: Дніпро</display-name><display-name>Суспільне Дніпро</display-name><display-name>51 канал Днепр</display-name><icon src="https://iptvx.one/picons/ua-dnipro.png"/></channel>
+<channel id="5kanal-karaganda"><display-name>5 канал (Караганда)</display-name><display-name>5 канал [KZ]</display-name><icon src="https://iptvx.one/picons/5kanal-karaganda.png"/></channel>
+<channel id="5kanal-ru"><display-name>Пятый канал</display-name><display-name>5 канал Россия</display-name><icon src="https://iptvx.one/picons/5kanal-ru.png"/></channel>
+<channel id="5kanal-ru-pl2"><display-name>Пятый канал +2</display-name><display-name>5 канал Россия +2</display-name><icon src="https://iptvx.one/picons/5kanal-ru-pl2.png"/></channel>
+<channel id="5kanal-ru-pl4"><display-name>Пятый канал +4</display-name><display-name>5 канал Россия +4</display-name><icon src="https://iptvx.one/picons/5kanal-ru-pl4.png"/></channel>
+<channel id="5kanal-ru-pl7"><display-name>Пятый канал +7</display-name><display-name>5 канал Россия +7</display-name><icon src="https://iptvx.one/picons/5kanal-ru-pl7.png"/></channel>
+<channel id="5kanal-ua"><display-name>5 канал (Україна)</display-name><display-name>5 канал (Украина)</display-name><display-name>5 канал</display-name><display-name>5 канал (Украина) HD</display-name><display-name>5 канал (Україна) HD</display-name><display-name>5 канал HD</display-name><icon src="https://iptvx.one/picons/5kanal-ua.png"/></channel>
+<channel id="5sport-gold-il"><display-name>5Sport Gold</display-name><display-name>5Sport Gold HD</display-name><icon src="https://iptvx.one/picons/5sport-gold-il.png"/></channel>
+<channel id="5sport-live-il"><display-name>5Sport Live</display-name><display-name>5Sport Live HD</display-name><icon src="https://iptvx.one/picons/5sport-live-il.png"/></channel>
+<channel id="5sport-plus-il"><display-name>5Sport Plus</display-name><display-name>5Sport Plus HD</display-name><icon src="https://iptvx.one/picons/5sport-plus-il.png"/></channel>
+<channel id="5sport-stars-il"><display-name>5Sport Stars</display-name><display-name>5Sport Stars HD</display-name><icon src="https://iptvx.one/picons/5sport-stars-il.png"/></channel>
+<channel id="6kanal-vlad"><display-name>6 канал (Владимир)</display-name><icon src="https://iptvx.one/picons/6kanal-vlad.png"/></channel>
+<channel id="6sotok"><display-name>6 соток</display-name><display-name>6 соток HD</display-name><icon src="https://iptvx.one/picons/6sotok.png"/></channel>
+<channel id="6tv"><display-name>6 ТВ</display-name><display-name>6ТВ</display-name><icon src="https://iptvx.one/picons/6tv.png"/></channel>
+<channel id="77tv-kz"><display-name>77TV</display-name><icon src="https://iptvx.one/picons/77tv-kz.png"/></channel>
+<channel id="78kanal"><display-name>78</display-name><display-name>LifeNews 78</display-name><display-name>Канал 78</display-name><icon src="https://iptvx.one/picons/78.png"/></channel>
+<channel id="7d7"><display-name>Just TV</display-name><display-name>7D7</display-name><icon src="https://iptvx.one/picons/7d7.png"/></channel>
+<channel id="7kanal-krasnoyarsk"><display-name>7 канал (Красноярск)</display-name><icon src="https://iptvx.one/picons/7kanal-krasnoyarsk.png"/></channel>
+<channel id="7kanal-kz"><display-name>7 канал (Казахстан)</display-name><display-name>7 канал [KZ]</display-name><icon src="https://iptvx.one/picons/7kanal-kz.png"/></channel>
+<channel id="7tv"><display-name>7ТВ</display-name><display-name>7 ТВ</display-name><icon src="https://iptvx.one/picons/7tv.png"/></channel>
+<channel id="86-surgut"><display-name>86 Сургут</display-name><display-name>Сургут 86</display-name><display-name>Телеканал 86</display-name><display-name>Телеканал 86 Сургут</display-name><icon src="https://iptvx.one/picons/86-surgut.png"/></channel>
+<channel id="8kanal-by"><display-name>8 канал Беларусь</display-name><display-name>8 канал HD Беларусь</display-name><display-name>ВосьМой</display-name><display-name>ВосьМой HD</display-name><icon src="https://iptvx.one/picons/8by.png"/></channel>
+<channel id="8kanal-eu"><display-name>8 канал International</display-name><display-name>8 канал Международный</display-name><display-name>8 канал Int</display-name><display-name>8 канал Европа</display-name><icon src="https://iptvx.one/picons/8kanal-eu.png"/></channel>
+<channel id="8kanal-krasnoyarsk"><display-name>8 канал (Красноярский край)</display-name><icon src="https://iptvx.one/picons/8kanal-krasnoyarsk.png"/></channel>
+<channel id="8kanal-novosibirsk"><display-name>8 канал (Новосибирск)</display-name><icon src="https://iptvx.one/picons/8kanal-novosibirsk.png"/></channel>
+<channel id="8kanal-ru"><display-name>8 канал</display-name><display-name>8 канал (Триколор)</display-name><display-name>8 канал (Россия)</display-name><icon src="https://iptvx.one/picons/8kanal-ru.png"/></channel>
+<channel id="8tv-lv"><display-name>8TV (Латвия)</display-name><display-name>8TV [LV]</display-name><icon src="https://iptvx.one/picons/8tv-lv.png"/></channel>
+<channel id="8vladik"><display-name>8 канал (Владивосток)</display-name><icon src="https://iptvx.one/picons/8vladik.png"/></channel>
+<channel id="9kanal-israel"><display-name>9 канал (Израиль)</display-name><display-name>9 канал [IL]</display-name><icon src="https://iptvx.one/picons/9kanal-israel.png"/></channel>
+<channel id="a-haber-tr"><display-name>A Haber HD</display-name><display-name>A Haber</display-name><display-name>A Haber [TR]</display-name><icon src="https://iptvx.one/picons/a-haber-tr.png"/></channel>
+<channel id="a-news-tr"><display-name>A News HD</display-name><display-name>A News</display-name><display-name>A News [TR]</display-name><icon src="https://iptvx.one/picons/a-news-tr.png"/></channel>
+<channel id="a-para-tr"><display-name>A Para HD</display-name><display-name>A Para</display-name><display-name>A Para [TR]</display-name><icon src="https://iptvx.one/picons/a-para-tr.png"/></channel>
+<channel id="a-spor-tr"><display-name>A Spor HD</display-name><display-name>A Spor</display-name><display-name>A Spor [TR]</display-name><icon src="https://iptvx.one/picons/a-spor-tr.png"/></channel>
+<channel id="a2-tr"><display-name>A2 HD [TR]</display-name><display-name>A2 [TR]</display-name><icon src="https://iptvx.one/picons/a2-tr.png"/></channel>
+<channel id="abaitv"><display-name>Abai TV</display-name><icon src="https://iptvx.one/picons/abaitv.png"/></channel>
+<channel id="abakan24"><display-name>Абакан 24</display-name><icon src="https://iptvx.one/picons/abakan24.png"/></channel>
+<channel id="abc-news-live-us"><display-name>ABC News Live [US]</display-name><icon src="https://iptvx.one/picons/abc-news-live-us.png"/></channel>
+<channel id="acc-network-us"><display-name>ACC Network [US]</display-name><icon src="https://iptvx.one/picons/acc-network-us.png"/></channel>
+<channel id="achinskoetv"><display-name>Ачинское телевидение</display-name><icon src="https://iptvx.one/picons/achinskoetv.png"/></channel>
+<channel id="active-family-pl"><display-name>Active Family [PL]</display-name><display-name>Active Family HD [PL]</display-name><icon src="https://iptvx.one/picons/active-family-pl.png"/></channel>
+<channel id="adult-channel"><display-name>Adult Channel</display-name><display-name>The Adult Channel</display-name><icon src="https://iptvx.one/picons/adult-channel.png"/></channel>
+<channel id="adventure-in-90-c"><display-name>Adventure in 90's</display-name><icon src="https://iptvx.one/picons/adventure-in-90-c.png"/></channel>
+<channel id="adventure-pl"><display-name>Adventure [PL]</display-name><icon src="https://iptvx.one/picons/adventure-pl.png"/></channel>
+<channel id="afontovo-kr"><display-name>Афонтово Красноярск</display-name><icon src="https://iptvx.one/picons/afontovo-kr.png"/></channel>
+<channel id="agro-tv-md"><display-name>Agro TV Moldova</display-name><icon src="https://iptvx.one/picons/agro-tv-md.png"/></channel>
+<channel id="aifak-kz"><display-name>Айғак</display-name><display-name>Айғақ</display-name><icon src="https://iptvx.one/picons/aifak-kz.png"/></channel>
+<channel id="aist"><display-name>Аист</display-name><icon src="https://iptvx.one/picons/aist.png"/></channel>
+<channel id="aiva"><display-name>AIVA</display-name><display-name>AIVA HD</display-name><icon src="https://iptvx.one/picons/aiva.png"/></channel>
+<channel id="ajara-tv"><display-name>Ajara TV</display-name><icon src="https://iptvx.one/picons/ajara-tv.png"/></channel>
+<channel id="aktis"><display-name>Актис</display-name><icon src="https://iptvx.one/picons/aktis.png"/></channel>
+<channel id="akwatv"><display-name>Аква ТВ</display-name><icon src="https://iptvx.one/picons/akwatv.png"/></channel>
+<channel id="al-jazeera-int"><display-name>Al Jazeera International</display-name><icon src="https://iptvx.one/picons/al-jazeera-int.png"/></channel>
+<channel id="alautv"><display-name>Алау</display-name><display-name>Алау ТВ</display-name><icon src="https://iptvx.one/picons/alautv.png"/></channel>
+<channel id="ale-kino-plus"><display-name>Ale Kino+ HD</display-name><display-name>Ale Kino+</display-name><icon src="https://iptvx.one/picons/ale-kino-plus.png"/></channel>
+<channel id="almaty"><display-name>Алматы</display-name><display-name>Almaty TV</display-name><icon src="https://iptvx.one/picons/almaty.png"/></channel>
+<channel id="almazny-kray"><display-name>Алмазный край</display-name><icon src="https://iptvx.one/picons/almazny-kray.png"/></channel>
+<channel id="altai-kz"><display-name>Altai</display-name><icon src="https://iptvx.one/picons/altai-kz.png"/></channel>
+<channel id="amc"><display-name>AMC</display-name><icon src="https://iptvx.one/picons/amc.png"/></channel>
+<channel id="amedia-hit"><display-name>A HOME OF HBO 1</display-name><display-name>Amedia Hit</display-name><display-name>Amedia Hit HD</display-name><display-name>A HOME OF HBO 1 HD</display-name><display-name>A Classic</display-name><icon src="https://iptvx.one/picons/amedia-hit.png"/></channel>
+<channel id="amedia-premium"><display-name>A HOME OF HBO 2</display-name><display-name>Amedia Premium</display-name><display-name>Amedia Premium HD</display-name><display-name>A HOME OF HBO 2 HD</display-name><display-name>A Premier</display-name><icon src="https://iptvx.one/picons/amedia-premium.png"/></channel>
+<channel id="amedia1"><display-name>А1</display-name><display-name>A1</display-name><display-name>А1 HD</display-name><display-name>A1 HD</display-name><display-name>Amedia 1 HD</display-name><display-name>Amedia 1</display-name><display-name>A First International</display-name><icon src="https://iptvx.one/picons/amedia1.png"/></channel>
+<channel id="amedia2"><display-name>А2</display-name><display-name>A2</display-name><display-name>А2 HD</display-name><display-name>A2 HD</display-name><display-name>Amedia 2 HD</display-name><display-name>Amedia 2</display-name><icon src="https://iptvx.one/picons/amedia2.png"/></channel>
+<channel id="anekdottv"><display-name>Анекдот ТВ</display-name><icon src="https://iptvx.one/picons/anekdottv.png"/></channel>
+<channel id="angel-tv"><display-name>Angel TV</display-name><icon src="https://iptvx.one/picons/angel-tv.png"/></channel>
+<channel id="ani"><display-name>Ani</display-name><icon src="https://iptvx.one/picons/ani.png"/></channel>
+<channel id="animal-planet-eu"><display-name>Animal Planet HD</display-name><display-name>Animal Planet</display-name><display-name>Animal Planet Europe</display-name><icon src="https://iptvx.one/picons/animal-planet-eu.png"/></channel>
+<channel id="animal-planet-pl"><display-name>Animal Planet [PL]</display-name><display-name>Animal Planet HD [PL]</display-name><icon src="https://iptvx.one/picons/animal-planet-pl.png"/></channel>
+<channel id="animaux"><display-name>Animaux</display-name><icon src="https://iptvx.one/picons/animaux.png"/></channel>
+<channel id="animekids"><display-name>Anime KIDS</display-name><icon src="https://iptvx.one/picons/animekids.png"/></channel>
+<channel id="animetv"><display-name>Anime TV</display-name><icon src="https://iptvx.one/picons/animetv.png"/></channel>
+<channel id="antena1hd-ro"><display-name>Antena 1 RO</display-name><display-name>Antena 1 HD RO</display-name><icon src="https://iptvx.one/picons/antena1hd-ro.png"/></channel>
+<channel id="anzherskoetv"><display-name>Анжерское ТВ</display-name><icon src="https://iptvx.one/picons/anzherskoetv.png"/></channel>
+<channel id="apostrof"><display-name>Апостроф</display-name><display-name>Апостроф TV</display-name><icon src="https://iptvx.one/picons/apostrof.png"/></channel>
+<channel id="appetitny"><display-name>Аппетитный</display-name><icon src="https://iptvx.one/picons/appetitny.png"/></channel>
+<channel id="aqjaiyq"><display-name>AQJAIYQ</display-name><icon src="https://iptvx.one/picons/aqjaiyq.png"/></channel>
+<channel id="aqtobe"><display-name>AQTOBE</display-name><icon src="https://iptvx.one/picons/aqtobe.png"/></channel>
+<channel id="aquaruim4k"><display-name>Aquarium 4K</display-name><display-name>Aquarium UHD</display-name><display-name>Aquarium UltraHD</display-name><icon src="https://iptvx.one/picons/aquaruim4k.png"/></channel>
+<channel id="arena-fight"><display-name>Arena Fight HD</display-name><display-name>Arena Fight</display-name><icon src="https://iptvx.one/picons/arena-fight.png"/></channel>
+<channel id="arena-premium-1"><display-name>Arena Premium 1</display-name><display-name>Arena Premium 1 HD</display-name><icon src="https://iptvx.one/picons/arena-premium-1.png"/></channel>
+<channel id="arena-premium-2"><display-name>Arena Premium 2</display-name><display-name>Arena Premium 2 HD</display-name><icon src="https://iptvx.one/picons/arena-premium-2.png"/></channel>
+<channel id="arena-premium-3"><display-name>Arena Premium 3</display-name><display-name>Arena Premium 3 HD</display-name><icon src="https://iptvx.one/picons/arena-premium-3.png"/></channel>
+<channel id="arena-sport-1"><display-name>Arena Sport 1 [RS]</display-name><display-name>Arena Sport 1 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-1.png"/></channel>
+<channel id="arena-sport-1-hr"><display-name>Arena Sport 1 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-1-hr.png"/></channel>
+<channel id="arena-sport-1-sk"><display-name>Arena Sport 1 [SK]</display-name><icon src="https://iptvx.one/picons/arena-sport-1-sk.png"/></channel>
+<channel id="arena-sport-1-slo"><display-name>Arena Sport 1 [SI]</display-name><display-name>Arena Sport 1 HD [SI]</display-name><icon src="https://iptvx.one/picons/arena-sport-1-slo.png"/></channel>
+<channel id="arena-sport-10-hr"><display-name>Arena Sport 10 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-10-hr.png"/></channel>
+<channel id="arena-sport-10-rs"><display-name>Arena Sport 10 [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-10-rs.png"/></channel>
+<channel id="arena-sport-2"><display-name>Arena Sport 2 [RS]</display-name><display-name>Arena Sport 2 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-2.png"/></channel>
+<channel id="arena-sport-2-hr"><display-name>Arena Sport 2 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-2-hr.png"/></channel>
+<channel id="arena-sport-2-sk"><display-name>Arena Sport 2 [SK]</display-name><icon src="https://iptvx.one/picons/arena-sport-2-sk.png"/></channel>
+<channel id="arena-sport-2-slo"><display-name>Arena Sport 2 [SI]</display-name><display-name>Arena Sport 2 HD [SI]</display-name><icon src="https://iptvx.one/picons/arena-sport-2-slo.png"/></channel>
+<channel id="arena-sport-3"><display-name>Arena Sport 3 [RS]</display-name><display-name>Arena Sport 3 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-3.png"/></channel>
+<channel id="arena-sport-3-hr"><display-name>Arena Sport 3 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-3-hr.png"/></channel>
+<channel id="arena-sport-3-slo"><display-name>Arena Sport 3 [SI]</display-name><display-name>Arena Sport 3 HD [SI]</display-name><icon src="https://iptvx.one/picons/arena-sport-3-slo.png"/></channel>
+<channel id="arena-sport-4"><display-name>Arena Sport 4 [RS]</display-name><display-name>Arena Sport 4 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-4.png"/></channel>
+<channel id="arena-sport-4-hr"><display-name>Arena Sport 4 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-4-hr.png"/></channel>
+<channel id="arena-sport-4-slo"><display-name>Arena Sport 4 [SI]</display-name><display-name>Arena Sport 4 HD [SI]</display-name><icon src="https://iptvx.one/picons/arena-sport-4-slo.png"/></channel>
+<channel id="arena-sport-5"><display-name>Arena Sport 5 [RS]</display-name><display-name>Arena Sport 5 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-5.png"/></channel>
+<channel id="arena-sport-5-hr"><display-name>Arena Sport 5 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-5-hr.png"/></channel>
+<channel id="arena-sport-6"><display-name>Arena Sport 6 [RS]</display-name><display-name>Arena Sport 6 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-6.png"/></channel>
+<channel id="arena-sport-6-hr"><display-name>Arena Sport 6 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-6-hr.png"/></channel>
+<channel id="arena-sport-7"><display-name>Arena Sport 7 [RS]</display-name><display-name>Arena Sport 7 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-7.png"/></channel>
+<channel id="arena-sport-7-hr"><display-name>Arena Sport 7 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-7-hr.png"/></channel>
+<channel id="arena-sport-8"><display-name>Arena Sport 8 [RS]</display-name><display-name>Arena Sport 8 HD [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-8.png"/></channel>
+<channel id="arena-sport-8-hr"><display-name>Arena Sport 8 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-8-hr.png"/></channel>
+<channel id="arena-sport-9-hr"><display-name>Arena Sport 9 [HR]</display-name><icon src="https://iptvx.one/picons/arena-sport-9-hr.png"/></channel>
+<channel id="arena-sport-9-rs"><display-name>Arena Sport 9 [RS]</display-name><icon src="https://iptvx.one/picons/arena-sport-9-rs.png"/></channel>
+<channel id="arena4-hu"><display-name>Arena4 [HU]</display-name><icon src="https://iptvx.one/picons/arena4-hu.png"/></channel>
+<channel id="arig-us-24"><display-name>Ариг Ус 24</display-name><display-name>Ариг Ус 24 HD</display-name><icon src="https://iptvx.one/picons/arig-us-24.png"/></channel>
+<channel id="arirang"><display-name>Arirang</display-name><icon src="https://iptvx.one/picons/arirang.png"/></channel>
+<channel id="aris24"><display-name>Арис 24</display-name><icon src="https://iptvx.one/picons/aris24.png"/></channel>
+<channel id="arktik-tv"><display-name>Арктик-TV</display-name><icon src="https://iptvx.one/picons/arktik-tv.png"/></channel>
+<channel id="arktika-24"><display-name>Арктика 24</display-name><display-name>Арктика 24 HD</display-name><icon src="https://iptvx.one/picons/arktika-24.png"/></channel>
+<channel id="armenia-tv"><display-name>Армения ТВ</display-name><icon src="https://iptvx.one/picons/armenia-tv.png"/></channel>
+<channel id="armia-tv-ua"><display-name>Армія ТБ</display-name><icon src="https://iptvx.one/picons/armia-tv-ua.png"/></channel>
+<channel id="armnews"><display-name>Armnews (Армения)</display-name><icon src="https://iptvx.one/picons/armnews.png"/></channel>
+<channel id="arsenaltv"><display-name>Арсенал</display-name><display-name>Арсенал ТВ</display-name><display-name>Арсенал HD</display-name><icon src="https://iptvx.one/picons/arsenaltv.png"/></channel>
+<channel id="art-tv"><display-name>Арт</display-name><display-name>Арт HD</display-name><icon src="https://iptvx.one/picons/art-tv.png"/></channel>
+<channel id="arte-hd"><display-name>Arte HD</display-name><icon src="https://iptvx.one/picons/arte-hd.png"/></channel>
+<channel id="artn-am"><display-name>ARTN</display-name><icon src="https://iptvx.one/picons/artn-am.png"/></channel>
+<channel id="arxyz24"><display-name>Архыз 24</display-name><display-name>Архыз-24</display-name><icon src="https://iptvx.one/picons/arxyz24.png"/></channel>
+<channel id="astana"><display-name>Астана</display-name><display-name>Astana</display-name><icon src="https://iptvx.one/picons/astana.png"/></channel>
+<channel id="astrahan-live"><display-name>Астрахань Live</display-name><icon src="https://iptvx.one/picons/astrahan-live.png"/></channel>
+<channel id="astraxan24"><display-name>Астрахань 24</display-name><icon src="https://iptvx.one/picons/astraxan24.png"/></channel>
+<channel id="astro-arena-1"><display-name>Astro Arena 1 HD</display-name><display-name>Astro Arena HD</display-name><icon src="https://iptvx.one/picons/astro-arena-1.png"/></channel>
+<channel id="astro-arena-2"><display-name>Astro Arena 2 HD</display-name><icon src="https://iptvx.one/picons/astro-arena-2.png"/></channel>
+<channel id="astro-arena-bola-1"><display-name>Astro Arena Bola 1</display-name><display-name>Astro Arena Bola 1 HD</display-name><icon src="https://iptvx.one/picons/astro-arena-bola-1.png"/></channel>
+<channel id="astro-arena-bola-2"><display-name>Astro Arena Bola 2</display-name><display-name>Astro Arena Bola 2 HD</display-name><icon src="https://iptvx.one/picons/astro-arena-bola-2.png"/></channel>
+<channel id="astro-badminton"><display-name>Astro Badminton</display-name><icon src="https://iptvx.one/picons/astro-badminton.png"/></channel>
+<channel id="astro-cricket"><display-name>Astro Cricket</display-name><icon src="https://iptvx.one/picons/astro-cricket.png"/></channel>
+<channel id="astro-sports-plus"><display-name>Astro Sports Plus</display-name><display-name>Astro Sports Plus HD</display-name><icon src="https://iptvx.one/picons/astro-sports-plus.png"/></channel>
+<channel id="astro-supersport-1"><display-name>Astro Premier League HD</display-name><display-name>Astro SuperSport 1 HD</display-name><icon src="https://iptvx.one/picons/astro-supersport-1.png"/></channel>
+<channel id="astro-supersport-2"><display-name>Astro Premier League 2 HD</display-name><display-name>Astro SuperSport 2 HD</display-name><icon src="https://iptvx.one/picons/astro-supersport-2.png"/></channel>
+<channel id="astro-supersport-3"><display-name>Astro Grandstand HD</display-name><display-name>Astro SuperSport 3 HD</display-name><icon src="https://iptvx.one/picons/astro-supersport-3.png"/></channel>
+<channel id="astro-supersport-4"><display-name>Astro Football HD</display-name><display-name>Astro SuperSport 4 HD</display-name><icon src="https://iptvx.one/picons/astro-supersport-4.png"/></channel>
+<channel id="astro-supersport-uhd"><display-name>Astro Sports UHD</display-name><icon src="https://iptvx.one/picons/astro-supersport-uhd.png"/></channel>
+<channel id="astvus"><display-name>АСТВ Южно-Сахалинск</display-name><icon src="https://iptvx.one/picons/astvus.png"/></channel>
+<channel id="asyl-arna"><display-name>Асыл Арна</display-name><display-name>TALIM TV</display-name><icon src="https://iptvx.one/picons/asyl-arna.png"/></channel>
+<channel id="atameken-business"><display-name>Atameken Business</display-name><display-name>Atameken Business Channel</display-name><icon src="https://iptvx.one/picons/atameken-business.png"/></channel>
+<channel id="atr-ua"><display-name>ATR</display-name><display-name>ATR HD</display-name><icon src="https://iptvx.one/picons/atr-ua.png"/></channel>
+<channel id="atv-armenia"><display-name>ATV Армения</display-name><icon src="https://iptvx.one/picons/atv-armenia.png"/></channel>
+<channel id="atv-bazmoc"><display-name>ATV Bazmoc TV</display-name><display-name>Բազմոց tv</display-name><icon src="https://iptvx.one/picons/atv-bazmoc.png"/></channel>
+<channel id="atv-filmzone"><display-name>ATV Filmzone</display-name><display-name>ՖՒԼՄԶՈՆ</display-name><icon src="https://iptvx.one/picons/atv-filmzone.png"/></channel>
+<channel id="atv-hd-tr"><display-name>ATV HD [TR]</display-name><icon src="https://iptvx.one/picons/atv-hd-tr.png"/></channel>
+<channel id="atv-kinoman"><display-name>ATV Kinoman</display-name><display-name>ԿԻՆՈՄԱՆ</display-name><icon src="https://iptvx.one/picons/atv-kinoman.png"/></channel>
+<channel id="atv-media"><display-name>АТВ-Медиа</display-name><icon src="https://iptvx.one/picons/atv-media.png"/></channel>
+<channel id="atv-stavropol"><display-name>АТВ-Ставрополь</display-name><icon src="https://iptvx.one/picons/atv-stavropol.png"/></channel>
+<channel id="atyray"><display-name>ATYRAY</display-name><icon src="https://iptvx.one/picons/atyray.png"/></channel>
+<channel id="auto-motor-sport-de"><display-name>Auto Moto Sport Channel [DE]</display-name><icon src="https://iptvx.one/picons/auto-motor-sport-de.png"/></channel>
+<channel id="avers"><display-name>Аверс</display-name><icon src="https://iptvx.one/picons/avers.png"/></channel>
+<channel id="avto-plus"><display-name>Авто Плюс</display-name><display-name>Авто Плюс HD</display-name><icon src="https://iptvx.one/picons/avto-plus.png"/></channel>
+<channel id="avto24"><display-name>Авто24</display-name><display-name>Авто 24</display-name><display-name>Авто24 HD</display-name><display-name>Авто 24 HD</display-name><icon src="https://iptvx.one/picons/avto24.png"/></channel>
+<channel id="axn-black-pl"><display-name>AXN Black HD</display-name><display-name>AXN Black</display-name><display-name>AXN Black [PL]</display-name><icon src="https://iptvx.one/picons/axn-black-pl.png"/></channel>
+<channel id="axn-pl"><display-name>AXN HD</display-name><display-name>AXN</display-name><display-name>AXN PL</display-name><icon src="https://iptvx.one/picons/axn-pl.png"/></channel>
+<channel id="axn-spin-pl"><display-name>AXN Spin HD</display-name><display-name>AXN Spin</display-name><display-name>AXN Spin [PL]</display-name><icon src="https://iptvx.one/picons/axn-spin-pl.png"/></channel>
+<channel id="axn-white-pl"><display-name>AXN White HD</display-name><display-name>AXN White</display-name><display-name>AXN White [PL]</display-name><icon src="https://iptvx.one/picons/axn-white-pl.png"/></channel>
+<channel id="aztv"><display-name>AzTV</display-name><icon src="https://iptvx.one/picons/aztv.png"/></channel>
+<channel id="babes-tv"><display-name>Babes TV</display-name><display-name>Babes TV HD</display-name><icon src="https://iptvx.one/picons/babes-tv.png"/></channel>
+<channel id="baby-time"><display-name>Baby Time</display-name><icon src="https://iptvx.one/picons/baby-time.png"/></channel>
+<channel id="baby-tv"><display-name>Baby TV</display-name><icon src="https://iptvx.one/picons/baby-tv.png"/></channel>
+<channel id="balapan"><display-name>Balapan</display-name><icon src="https://iptvx.one/picons/balapan.png"/></channel>
+<channel id="balashixa"><display-name>Балашиха ТВ</display-name><icon src="https://iptvx.one/picons/balashixa.png"/></channel>
+<channel id="balastan"><display-name>Баластан</display-name><icon src="https://iptvx.one/picons/balastan.png"/></channel>
+<channel id="baletopera-tviksel"><display-name>Балет Опера</display-name><icon src="https://iptvx.one/picons/baletopera-tviksel.png"/></channel>
+<channel id="balkanika"><display-name>Balkanika</display-name><display-name>Балканика</display-name><display-name>Балканика МТВ</display-name><icon src="https://iptvx.one/picons/balkanika.png"/></channel>
+<channel id="balticum-auksinis"><display-name>Balticum Auksinis</display-name><icon src="https://iptvx.one/picons/balticum-auksinis.png"/></channel>
+<channel id="balticum-platinum"><display-name>Balticum Platinum</display-name><display-name>Balticum Platinum HD</display-name><icon src="https://iptvx.one/picons/balticum-platinum.png"/></channel>
+<channel id="balticum-tv"><display-name>Balticum HD</display-name><display-name>Balticum TV</display-name><icon src="https://iptvx.one/picons/balticum-tv.png"/></channel>
+<channel id="barely-legal"><display-name>Barely Legal</display-name><display-name>Barely Legal TV</display-name><icon src="https://iptvx.one/picons/barely-legal.png"/></channel>
+<channel id="barely-legal-ua"><display-name>Barely Legal Украина</display-name><icon src="https://iptvx.one/picons/barely-legal.png"/></channel>
+<channel id="bars"><display-name>Барс</display-name><icon src="https://iptvx.one/picons/bars.png"/></channel>
+<channel id="bashkortostan24"><display-name>Башкортостан 24</display-name><icon src="https://iptvx.one/picons/bashkortostan24.png"/></channel>
+<channel id="bataysk-tv"><display-name>Батайск ТВ</display-name><icon src="https://iptvx.one/picons/bataysk-tv.png"/></channel>
+<channel id="bbc"><display-name>BBC</display-name><display-name>BBC World News</display-name><display-name>BBC World</display-name><icon src="https://iptvx.one/picons/bbc.png"/></channel>
+<channel id="bbc-amerika-us"><display-name>BBC America [US]</display-name><icon src="https://iptvx.one/picons/bbc-amerika-us.png"/></channel>
+<channel id="bbc-brit-pl"><display-name>BBC Brit [PL]</display-name><icon src="https://iptvx.one/picons/bbc-brit-pl.png"/></channel>
+<channel id="bbc-cbeeb-pl"><display-name>BBC CBeebies [PL]</display-name><icon src="https://iptvx.one/picons/bbc-cbeeb-pl.png"/></channel>
+<channel id="bbc-earth"><display-name>BBC Earth [PL]</display-name><display-name>BBC Earth</display-name><icon src="https://iptvx.one/picons/bbc-earth.png"/></channel>
+<channel id="bbc-first-pl"><display-name>BBC First [PL]</display-name><icon src="https://iptvx.one/picons/bbc-first-pl.png"/></channel>
+<channel id="bbc-four-uk"><display-name>BBC Four [UK]</display-name><icon src="https://iptvx.one/picons/bbc-four-uk.png"/></channel>
+<channel id="bbc-ls-pl"><display-name>BBC Lifestyle [PL]</display-name><icon src="https://iptvx.one/picons/bbc-ls-pl.png"/></channel>
+<channel id="bcu-action"><display-name>BCU Action HD</display-name><display-name>BCU Action HDR</display-name><icon src="https://iptvx.one/picons/bcu-action.png"/></channel>
+<channel id="bcu-catastrophe"><display-name>BCU Catastrophe HD</display-name><icon src="https://iptvx.one/picons/bcu-catastrophe.png"/></channel>
+<channel id="bcu-charm"><display-name>BCU Charm HD</display-name><display-name>BCU Charm</display-name><icon src="https://iptvx.one/picons/bcu-charm.png"/></channel>
+<channel id="bcu-cinema"><display-name>BCU Cinema HD</display-name><display-name>BCU Cinema</display-name><icon src="https://iptvx.one/picons/bcu-cinema.png"/></channel>
+<channel id="bcu-cinemaplus"><display-name>BCU Cinema+ HD</display-name><display-name>BCU Cinema+</display-name><icon src="https://iptvx.one/picons/bcu-cinemaplus.png"/></channel>
+<channel id="bcu-comedy"><display-name>BCU Comedy HD</display-name><display-name>BCU Comedy</display-name><icon src="https://iptvx.one/picons/bcu-comedy.png"/></channel>
+<channel id="bcu-cosmo"><display-name>BCU Cosmo HD</display-name><display-name>BCU Cosmo</display-name><icon src="https://iptvx.one/picons/bcu-cosmo.png"/></channel>
+<channel id="bcu-cosmo-hdr"><display-name>BCU Cosmo HDR</display-name><icon src="https://iptvx.one/picons/bcu-cosmo-hdr.png"/></channel>
+<channel id="bcu-criminal"><display-name>BCU Criminal HD</display-name><display-name>BCU Criminal</display-name><icon src="https://iptvx.one/picons/bcu-criminal.png"/></channel>
+<channel id="bcu-fantastic"><display-name>BCU Fantastic HD</display-name><display-name>BCU Fantastic</display-name><icon src="https://iptvx.one/picons/bcu-fantastic.png"/></channel>
+<channel id="bcu-filmystic"><display-name>BCU FilMystic HD</display-name><display-name>FilMax HD</display-name><display-name>FilMax</display-name><display-name>FilMystic TV</display-name><display-name>FilMystic HD</display-name><icon src="https://iptvx.one/picons/bcu-filmystic.png"/></channel>
+<channel id="bcu-history"><display-name>BCU History HD</display-name><display-name>BCU History</display-name><icon src="https://iptvx.one/picons/bcu-history.png"/></channel>
+<channel id="bcu-kids"><display-name>BCU Kids HD</display-name><display-name>BCU Kids</display-name><display-name>BCU Мультзал</display-name><display-name>BCU Мультзал HD</display-name><icon src="https://iptvx.one/picons/bcu-kids.png"/></channel>
+<channel id="bcu-kids-4k"><display-name>BCU Kids 4K</display-name><icon src="https://iptvx.one/picons/bcu-kids-4k.png"/></channel>
+<channel id="bcu-kids-plus"><display-name>BCU Kids+ HD</display-name><display-name>BCU Kids+</display-name><icon src="https://iptvx.one/picons/bcu-kids-plus.png"/></channel>
+<channel id="bcu-kinorating"><display-name>BCU Kinorating HD</display-name><display-name>BCU Kinorating</display-name><icon src="https://iptvx.one/picons/bcu-kinorating.png"/></channel>
+<channel id="bcu-kinozakaz-4k"><display-name>BCU Kinozakaz 4K</display-name><icon src="https://iptvx.one/picons/bcu-kinozakaz-4k.png"/></channel>
+<channel id="bcu-kinozakaz-premiere-4k"><display-name>BCU Kinozakaz Premiere 4K</display-name><icon src="https://iptvx.one/picons/bcu-kinozakaz-premiere-4k.png"/></channel>
+<channel id="bcu-kinozal-prem-1"><display-name>BCU Кинозал Premiere 1 HD</display-name><display-name>BCU Кинозал Premiere 1</display-name><display-name>BCU Premiere 1</display-name><display-name>BCU Premiere 1 HD</display-name><icon src="https://iptvx.one/picons/bcu-kinozal-prem-1.png"/></channel>
+<channel id="bcu-kinozal-prem-2"><display-name>BCU Кинозал Premiere 2 HD</display-name><display-name>BCU Кинозал Premiere 2</display-name><display-name>BCU Premiere 2</display-name><display-name>BCU Premiere 2 HD</display-name><icon src="https://iptvx.one/picons/bcu-kinozal-prem-2.png"/></channel>
+<channel id="bcu-kinozal-prem-3"><display-name>BCU Кинозал Premiere 3 HD</display-name><display-name>BCU Кинозал Premiere 3</display-name><display-name>BCU Premiere 3</display-name><display-name>BCU Premiere 3 HD</display-name><icon src="https://iptvx.one/picons/bcu-kinozal-prem-3.png"/></channel>
+<channel id="bcu-little"><display-name>BCU Little HD</display-name><display-name>BCU Little</display-name><icon src="https://iptvx.one/picons/bcu-little.png"/></channel>
+<channel id="bcu-marvel"><display-name>BCU Marvel HD</display-name><display-name>BCU Marvel DC</display-name><display-name>BCU Marvel</display-name><icon src="https://iptvx.one/picons/bcu-marvel.png"/></channel>
+<channel id="bcu-marvel-4k-hdr"><display-name>BCU Marvel 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-marvel-4k-hdr.png"/></channel>
+<channel id="bcu-media"><display-name>BCU Kinozakaz</display-name><display-name>BCUMedia HD</display-name><display-name>BCUMedia</display-name><display-name>BCU Media HD</display-name><display-name>BCU Media</display-name><icon src="https://iptvx.one/picons/bcu-kinozakaz.png"/></channel>
+<channel id="bcu-media-premium-4k-hdr"><display-name>BCUMedia Premium 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-media-premium-4k-hdr.png"/></channel>
+<channel id="bcu-multserial"><display-name>BCU Мультсериал HD</display-name><display-name>BCU Мультсериал</display-name><display-name>BCU Multserial</display-name><display-name>BCU Multserial HD</display-name><icon src="https://iptvx.one/picons/bcu-multserial.png"/></channel>
+<channel id="bcu-premiere"><display-name>BCU Premiere HD</display-name><display-name>BCU Premiere</display-name><icon src="https://iptvx.one/picons/bcu-premiere.png"/></channel>
+<channel id="bcu-premiere-4k"><display-name>BCU Premiere Ultra 4K</display-name><icon src="https://iptvx.one/picons/bcu-premiere-4k.png"/></channel>
+<channel id="bcu-premium-action-4k-hdr"><display-name>BCU Premium Action 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-action-4k-hdr.png"/></channel>
+<channel id="bcu-premium-comedy-4k-hdr"><display-name>BCU Premium Comedy 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-comedy-4k-hdr.png"/></channel>
+<channel id="bcu-premium-crime-4k-hdr"><display-name>BCU Premium Crime 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-crime-4k-hdr.png"/></channel>
+<channel id="bcu-premium-fantstic-4k-hdr"><display-name>BCU Premium Fantastic 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-fantstic-4k-hdr.png"/></channel>
+<channel id="bcu-premium-franshise-4k-hdr"><display-name>BCU Premium Franchise 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-franshise-4k-hdr.png"/></channel>
+<channel id="bcu-premium-history-4k-hdr"><display-name>BCU Premium History 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-history-4k-hdr.png"/></channel>
+<channel id="bcu-premium-horror-4k-hdr"><display-name>BCU Premium Horror 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-horror-4k-hdr.png"/></channel>
+<channel id="bcu-premium-pobed"><display-name>BCU Premium 80 лет Победы 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-pobed.png"/></channel>
+<channel id="bcu-premium-rus-4k-hdr"><display-name>BCU Premium Russian 4K HDR</display-name><icon src="https://iptvx.one/picons/bcu-premium-rus-4k-hdr.png"/></channel>
+<channel id="bcu-reality"><display-name>BCU Reality HD</display-name><display-name>BCU Reality</display-name><icon src="https://iptvx.one/picons/bcu-reality.png"/></channel>
+<channel id="bcu-romantic"><display-name>BCU Romantic HD</display-name><display-name>BCU Romantic</display-name><icon src="https://iptvx.one/picons/bcu-romantic.png"/></channel>
+<channel id="bcu-ruserial"><display-name>BCU RUSerial HD</display-name><display-name>BCU RUSerial</display-name><icon src="https://iptvx.one/picons/bcu-ruserial.png"/></channel>
+<channel id="bcu-russia90s"><display-name>BCU Russia 90s</display-name><display-name>BCU Russia 90s HD</display-name><icon src="https://iptvx.one/picons/bcu-russia90s.png"/></channel>
+<channel id="bcu-russian"><display-name>BCU Russian HD</display-name><display-name>BCU Russian</display-name><icon src="https://iptvx.one/picons/bcu-russian.png"/></channel>
+<channel id="bcu-sssr"><display-name>BCU Кинозал СССР</display-name><display-name>BCU СССР</display-name><display-name>BCU СССР HD</display-name><icon src="https://iptvx.one/picons/bcu-sssr-hd.png"/></channel>
+<channel id="bcu-sssr-hdr"><display-name>BCU СССР HDR</display-name><icon src="https://iptvx.one/picons/bcu-sssr-hdr.png"/></channel>
+<channel id="bcu-stars"><display-name>BCU Stars HD</display-name><display-name>BCU Stars</display-name><icon src="https://iptvx.one/picons/bcu-stars.png"/></channel>
+<channel id="bcu-survival"><display-name>BCU Survival HD</display-name><display-name>BCU Survival</display-name><icon src="https://iptvx.one/picons/bcu-survival.png"/></channel>
+<channel id="bcu-svaty"><display-name>BCU Сваты HD</display-name><display-name>BCU Сваты</display-name><icon src="https://iptvx.one/picons/bcu-svaty.png"/></channel>
+<channel id="bcu-svaty-4k"><display-name>BCU Сваты 4K</display-name><icon src="https://iptvx.one/picons/bcu-svaty-4k.png"/></channel>
+<channel id="bcu-trumotion"><display-name>BCU TruMotion HD</display-name><display-name>BCU TruMotion</display-name><icon src="https://iptvx.one/picons/bcu-trumotion.png"/></channel>
+<channel id="bcu-ultra4k"><display-name>BCU Ultra 4K</display-name><icon src="https://iptvx.one/picons/bcu-ultra4k.png"/></channel>
+<channel id="bcu-vhs"><display-name>BCU VHS HD</display-name><display-name>BCU VHS</display-name><display-name>BOX VHS</display-name><icon src="https://iptvx.one/picons/bcu-vhs-hd.png"/></channel>
+<channel id="beauty-tv"><display-name>Бьюти.TV</display-name><display-name>Бьюти TV</display-name><icon src="https://iptvx.one/picons/beauty-tv.png"/></channel>
+<channel id="bein-sport-1"><display-name>beIN Sports 1</display-name><display-name>beIN Sports 1 HD</display-name><icon src="https://iptvx.one/picons/bein-sport-1.png"/></channel>
+<channel id="bein-sport-1-fr"><display-name>beIN Sports 1 [FR]</display-name><display-name>beIN Sports 1 HD [FR]</display-name><icon src="https://iptvx.one/picons/bein-sport-1-fr.png"/></channel>
+<channel id="bein-sport-2"><display-name>beIN Sports 2</display-name><display-name>beIN Sports 2 HD</display-name><icon src="https://iptvx.one/picons/bein-sport-2.png"/></channel>
+<channel id="bein-sport-2-fr"><display-name>beIN Sports 2 [FR]</display-name><display-name>beIN Sports 2 HD [FR]</display-name><icon src="https://iptvx.one/picons/bein-sport-2-fr.png"/></channel>
+<channel id="bein-sport-3"><display-name>beIN Sports 3</display-name><display-name>beIN Sports 3 HD</display-name><icon src="https://iptvx.one/picons/bein-sport-3.png"/></channel>
+<channel id="bein-sport-3-fr"><display-name>beIN Sports 3 [FR]</display-name><display-name>beIN Sports 3 HD [FR]</display-name><icon src="https://iptvx.one/picons/bein-sport-3-fr.png"/></channel>
+<channel id="bein-sport-4"><display-name>beIN Sports 4</display-name><display-name>beIN Sports 4 HD</display-name><icon src="https://iptvx.one/picons/bein-sport-4.png"/></channel>
+<channel id="bein-sport-5"><display-name>beIN Sports 5</display-name><display-name>beIN Sports 5 HD</display-name><icon src="https://iptvx.one/picons/bein-sport-5.png"/></channel>
+<channel id="bein-sport-6"><display-name>beIN Sports 6</display-name><display-name>beIN Sports 6 HD</display-name><icon src="https://iptvx.one/picons/bein-sport-6.png"/></channel>
+<channel id="bein-sport-7"><display-name>beIN Sports 7</display-name><display-name>beIN Sports 7 HD</display-name><icon src="https://iptvx.one/picons/bein-sport-7.png"/></channel>
+<channel id="bein-sport-us"><display-name>beIN Sports [US]</display-name><icon src="https://iptvx.one/picons/bein-sport-us.png"/></channel>
+<channel id="bein-sports-1-en"><display-name>beIN Sports 1 [UK]</display-name><display-name>beIN Sports 1 HD [UK]</display-name><icon src="https://iptvx.one/picons/bein-sports-1-en.png"/></channel>
+<channel id="bein-sports-1-singapore"><display-name>beIN Sports 1 Singapore</display-name><display-name>beIN Sports 1 HD Singapore</display-name><icon src="https://iptvx.one/picons/bein-sports-1-singapore.png"/></channel>
+<channel id="bein-sports-1-tr"><display-name>beIN Sports 1 [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-1-tr.png"/></channel>
+<channel id="bein-sports-2-en"><display-name>beIN Sports 2 [UK]</display-name><display-name>beIN Sports 2 HD [UK]</display-name><icon src="https://iptvx.one/picons/bein-sports-2-en.png"/></channel>
+<channel id="bein-sports-2-singapore"><display-name>beIN Sports 2 Singapore</display-name><display-name>beIN Sports 2 HD Singapore</display-name><icon src="https://iptvx.one/picons/bein-sports-2-singapore.png"/></channel>
+<channel id="bein-sports-2-tr"><display-name>beIN Sports 2 [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-2-tr.png"/></channel>
+<channel id="bein-sports-3-singapore"><display-name>beIN Sports 3 Singapore</display-name><display-name>beIN Sports 3 HD Singapore</display-name><icon src="https://iptvx.one/picons/bein-sports-3-singapore.png"/></channel>
+<channel id="bein-sports-3-tr"><display-name>beIN Sports 3 [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-3-tr.png"/></channel>
+<channel id="bein-sports-4-tr"><display-name>beIN Sports 4 [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-4-tr.png"/></channel>
+<channel id="bein-sports-4k"><display-name>beIN Sports 4K</display-name><display-name>beIN 4K</display-name><icon src="https://iptvx.one/picons/bein-sports-4k.png"/></channel>
+<channel id="bein-sports-5-tr"><display-name>beIN Sports 5 [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-5-tr.png"/></channel>
+<channel id="bein-sports-afc"><display-name>beIN Sports AFC</display-name><display-name>beIN Sports AFC HD</display-name><icon src="https://iptvx.one/picons/bein-sports-afc.png"/></channel>
+<channel id="bein-sports-fta"><display-name>beIN Sports FTA</display-name><display-name>beIN Sports</display-name><display-name>beIN Sports HD</display-name><display-name>beIN Sports MENA</display-name><display-name>beIN Sports Global MENA</display-name><display-name>beIN Sports FTA HD</display-name><icon src="https://iptvx.one/picons/bein-sports-fta.png"/></channel>
+<channel id="bein-sports-haber-tr"><display-name>beIN Sports Haber [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-haber-tr.png"/></channel>
+<channel id="bein-sports-max-1-tr"><display-name>beIN Sports Max 1 [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-max-1-tr.png"/></channel>
+<channel id="bein-sports-max-2-tr"><display-name>beIN Sports Max 2 [TR]</display-name><icon src="https://iptvx.one/picons/bein-sports-max-2-tr.png"/></channel>
+<channel id="bein-sports-nba"><display-name>beIN Sports NBA</display-name><display-name>beIN Sports NBA HD</display-name><icon src="https://iptvx.one/picons/bein-sports-nba.png"/></channel>
+<channel id="bein-sports-news"><display-name>beIN Sports News</display-name><display-name>beIN Sports News HD</display-name><icon src="https://iptvx.one/picons/bein-sports-news.png"/></channel>
+<channel id="bein-sports-xtra-us"><display-name>beIN Sports Xtra [US]</display-name><icon src="https://iptvx.one/picons/bein-sports-xtra-us.png"/></channel>
+<channel id="belarus1"><display-name>Беларусь 1 HD</display-name><display-name>Беларусь 1</display-name><icon src="https://iptvx.one/picons/belarus1hd.png"/></channel>
+<channel id="belarus2"><display-name>Беларусь 2 HD</display-name><display-name>Беларусь 2</display-name><icon src="https://iptvx.one/picons/belarus2hd.png"/></channel>
+<channel id="belarus24"><display-name>Беларусь-24</display-name><display-name>Беларусь 24</display-name><icon src="https://iptvx.one/picons/belarus24.png"/></channel>
+<channel id="belarus3"><display-name>Беларусь 3 HD</display-name><display-name>Беларусь 3</display-name><icon src="https://iptvx.one/picons/belarus3hd.png"/></channel>
+<channel id="belarus4-brest"><display-name>Беларусь 4 Брест</display-name><icon src="https://iptvx.one/picons/belarus4-brest.png"/></channel>
+<channel id="belarus4-gomel"><display-name>Беларусь 4 Гомель</display-name><icon src="https://iptvx.one/picons/belarus4-gomel.png"/></channel>
+<channel id="belarus4-grodno"><display-name>Беларусь 4 Гродно</display-name><icon src="https://iptvx.one/picons/belarus4-grodno.png"/></channel>
+<channel id="belarus4-mogilev"><display-name>Беларусь 4 Могилев</display-name><icon src="https://iptvx.one/picons/belarus4-mogilev.png"/></channel>
+<channel id="belarus4-vitebsk"><display-name>Беларусь 4 Витебск</display-name><icon src="https://iptvx.one/picons/belarus4-vitebsk.png"/></channel>
+<channel id="belarus5"><display-name>Беларусь 5 HD</display-name><display-name>Беларусь 5</display-name><icon src="https://iptvx.one/picons/belarus5hd.png"/></channel>
+<channel id="belarus5-inet"><display-name>Беларусь 5 Интернет</display-name><icon src="https://iptvx.one/picons/belarus5-inet.png"/></channel>
+<channel id="belgorod24"><display-name>Белгород 24</display-name><icon src="https://iptvx.one/picons/belgorod24.png"/></channel>
+<channel id="belmuztv"><display-name>МузТВ Беларусь</display-name><display-name>БелМузТВ</display-name><display-name>БелМуз ТВ</display-name><icon src="https://iptvx.one/picons/belmuztv.png"/></channel>
+<channel id="belsat"><display-name>BelSat</display-name><display-name>BelSat TV</display-name><display-name>Белсат ТВ</display-name><display-name>Белсат</display-name><icon src="https://iptvx.one/picons/belsat.png"/></channel>
+<channel id="belviasat-plustv"><display-name>Белвиасат +ТВ</display-name><display-name>+ТВ Белвиасат</display-name><display-name>+ТВ</display-name><display-name>+TV</display-name><icon src="https://iptvx.one/picons/belviasat-plustv.png"/></channel>
+<channel id="benfica-tv"><display-name>Benfica TV</display-name><icon src="https://iptvx.one/picons/benfica-tv.png"/></channel>
+<channel id="best4sport"><display-name>Best4Sport TV</display-name><display-name>Best4Sport HD</display-name><display-name>Best4Sport 1</display-name><display-name>Best4Sport 1 HD</display-name><icon src="https://iptvx.one/picons/best4sport.png"/></channel>
+<channel id="best4sport2"><display-name>Best4Sport 2</display-name><display-name>Best4Sport 2 HD</display-name><icon src="https://iptvx.one/picons/best4sport2.png"/></channel>
+<channel id="bet-gospel-us"><display-name>BET Gospel [US]</display-name><icon src="https://iptvx.one/picons/bet-gospel-us.png"/></channel>
+<channel id="bet-her-us"><display-name>BET Her [US]</display-name><icon src="https://iptvx.one/picons/bet-her-us.png"/></channel>
+<channel id="bet-jams-us"><display-name>BET Jams [US]</display-name><icon src="https://iptvx.one/picons/bet-jams-us.png"/></channel>
+<channel id="bet-soul-us"><display-name>BET Soul [US]</display-name><icon src="https://iptvx.one/picons/bet-soul-us.png"/></channel>
+<channel id="beyaz-tv-tr"><display-name>Beyaz TV HD TR</display-name><display-name>Beyaz TV TR</display-name><icon src="https://iptvx.one/picons/beyaz-tv-tr.png"/></channel>
+<channel id="big-planet"><display-name>Big Planet</display-name><display-name>Big Planet HD</display-name><icon src="https://iptvx.one/picons/big-planet.png"/></channel>
+<channel id="big-ten-network-us"><display-name>Big Ten Network [US]</display-name><icon src="https://iptvx.one/picons/big-ten-network-us.png"/></channel>
+<channel id="bigudi"><display-name>Бiгудi</display-name><display-name>Бигуди</display-name><icon src="https://iptvx.one/picons/bigudi.png"/></channel>
+<channel id="bijskoetv"><display-name>Бийское ТВ</display-name><icon src="https://iptvx.one/picons/bijskoetv.png"/></channel>
+<channel id="blokbaster"><display-name>Блокбастер</display-name><icon src="https://iptvx.one/picons/blokbaster.png"/></channel>
+<channel id="blokbaster-hd"><display-name>Блокбастер HD</display-name><icon src="https://iptvx.one/picons/blokbaster.png"/></channel>
+<channel id="bloomberg"><display-name>Bloomberg</display-name><icon src="https://iptvx.one/picons/bloomberg.png"/></channel>
+<channel id="bloomberg-ht-tr"><display-name>Bloomberg HT TR</display-name><icon src="https://iptvx.one/picons/bloomberg-ht-tr.png"/></channel>
+<channel id="blue-hustler"><display-name>Blue Hustler</display-name><display-name>Blue Hustler HD</display-name><icon src="https://iptvx.one/picons/blue-hustler.png"/></channel>
+<channel id="blue-hustler-24"><display-name>Blue Hustler 24</display-name><display-name>Blue Hustler 24 HD</display-name><icon src="https://iptvx.one/picons/blue-hustler.png"/></channel>
+<channel id="blue-hustler-ua"><display-name>Blue Hustler Украина</display-name><display-name>Blue Hustler UA</display-name><icon src="https://iptvx.one/picons/blue-hustler.png"/></channel>
+<channel id="bobior"><display-name>Бобер</display-name><display-name>Бобёр</display-name><display-name>Бобер HD</display-name><display-name>Бобёр HD</display-name><icon src="https://iptvx.one/picons/bobior.png"/></channel>
+<channel id="boeviki-hd"><display-name>Боевики HD</display-name><display-name>Боевики</display-name><icon src="https://iptvx.one/picons/boeviki-hd.png"/></channel>
+<channel id="bolajon-uz"><display-name>Bolajon Telekanali [UZ]</display-name><icon src="https://iptvx.one/picons/bolajon-uz.png"/></channel>
+<channel id="bollywood-hd"><display-name>Bollywood</display-name><display-name>Bollywood HD</display-name><icon src="https://iptvx.one/picons/bollywood-hd.png"/></channel>
+<channel id="bolshaya-azia"><display-name>Большая Азия</display-name><display-name>Большая Азия HD</display-name><icon src="https://iptvx.one/picons/bolshaya-azia.png"/></channel>
+<channel id="bolshoj-efir"><display-name>Большой эфир</display-name><display-name>Большой эфир HD</display-name><icon src="https://iptvx.one/picons/bolshoj-efir.png"/></channel>
+<channel id="bolt"><display-name>Bolt</display-name><display-name>Bolt HD</display-name><display-name>Bolt Украина</display-name><display-name>Bolt HD Украина</display-name><icon src="https://iptvx.one/picons/bolt.png"/></channel>
+<channel id="bolt-ru"><display-name>Bolt Россия</display-name><display-name>Bolt HD Россия</display-name><icon src="https://iptvx.one/picons/bolt.png"/></channel>
+<channel id="boomerang"><display-name>Boomerang</display-name><display-name>Cartoonito</display-name><display-name>Cartoonito HD</display-name><display-name>Boomerang HD</display-name><icon src="https://iptvx.one/picons/boomerang.png"/></channel>
+<channel id="box-anime"><display-name>BOX Anime HD</display-name><display-name>BOX Anime</display-name><icon src="https://iptvx.one/picons/box-anime.png"/></channel>
+<channel id="box-apocalipse"><display-name>BOX Apocalypse HD</display-name><icon src="https://iptvx.one/picons/box-apocalipse.png"/></channel>
+<channel id="box-auttrend"><display-name>BOX AutoTrend HD</display-name><icon src="https://iptvx.one/picons/box-auttrend.png"/></channel>
+<channel id="box-beonedge"><display-name>BOX Be ON Edge HD</display-name><display-name>BOX Be ON Edge</display-name><icon src="https://iptvx.one/picons/box-beonedge.png"/></channel>
+<channel id="box-beonedge1live"><display-name>BOX Be ON Edge 1 Live HD</display-name><display-name>BOX Be ON Edge 1 Live</display-name><icon src="https://iptvx.one/picons/box-beonedge1live.png"/></channel>
+<channel id="box-beonedge2live"><display-name>BOX Be ON Edge 2 Live HD</display-name><display-name>BOX Be ON Edge 2 Live</display-name><icon src="https://iptvx.one/picons/box-beonedge2live.png"/></channel>
+<channel id="box-beonedge3live"><display-name>BOX Be ON Edge 3 Live HD</display-name><display-name>BOX Be ON Edge 3 Live</display-name><icon src="https://iptvx.one/picons/box-beonedge3live.png"/></channel>
+<channel id="box-cyber"><display-name>BOX Cyber HD</display-name><display-name>BOX Cyber</display-name><icon src="https://iptvx.one/picons/box-cyber.png"/></channel>
+<channel id="box-docu"><display-name>BOX Docu. HD</display-name><display-name>BOX Docu HD</display-name><display-name>BOX Docu</display-name><icon src="https://iptvx.one/picons/box-docu.png"/></channel>
+<channel id="box-fantasy"><display-name>BOX Fantasy HD</display-name><display-name>BOX Fantasy</display-name><icon src="https://iptvx.one/picons/box-fantasy.png"/></channel>
+<channel id="box-franchise"><display-name>BOX Franchise HD</display-name><display-name>BOX Franchise</display-name><icon src="https://iptvx.one/picons/box-franchise.png"/></channel>
+<channel id="box-franchise-hdr"><display-name>BOX Franchise HDR</display-name><icon src="https://iptvx.one/picons/box-franchise-hdr.png"/></channel>
+<channel id="box-game"><display-name>BOX Game HD</display-name><display-name>BOX Game</display-name><icon src="https://iptvx.one/picons/box-game.png"/></channel>
+<channel id="box-gangster"><display-name>BOX Gangster HD</display-name><display-name>BOX Gangster</display-name><icon src="https://iptvx.one/picons/box-gangster.png"/></channel>
+<channel id="box-ghost"><display-name>BOX Ghost HD</display-name><display-name>BOX Ghost</display-name><icon src="https://iptvx.one/picons/box-ghost.png"/></channel>
+<channel id="box-gurman"><display-name>BOX Gurman HD</display-name><icon src="https://iptvx.one/picons/box-gurman.png"/></channel>
+<channel id="box-history-4k"><display-name>BOX History 4K</display-name><icon src="https://iptvx.one/picons/box-history-4k.png"/></channel>
+<channel id="box-hybrid"><display-name>BOX Hybrid HD</display-name><display-name>BOX Hybrid</display-name><icon src="https://iptvx.one/picons/box-hybrid.png"/></channel>
+<channel id="box-kosmo-4k"><display-name>BOX Kosmo 4K</display-name><icon src="https://iptvx.one/picons/box-kosmo-4k.png"/></channel>
+<channel id="box-lofi"><display-name>BOX LoFi HD</display-name><icon src="https://iptvx.one/picons/box-lofi.png"/></channel>
+<channel id="box-m-serial"><display-name>BOX M.Serial HD</display-name><display-name>BOX M.Serial</display-name><icon src="https://iptvx.one/picons/box-m-serial.png"/></channel>
+<channel id="box-memory"><display-name>BOX Memory HD</display-name><display-name>BOX Memory</display-name><icon src="https://iptvx.one/picons/box-memory.png"/></channel>
+<channel id="box-metall"><display-name>BOX Metall HD</display-name><display-name>BOX Metall</display-name><icon src="https://iptvx.one/picons/box-metall.png"/></channel>
+<channel id="box-music-4k"><display-name>BOX Music 4K</display-name><icon src="https://iptvx.one/picons/box-music-4k.png"/></channel>
+<channel id="box-music-tv-bg"><display-name>Box Music TV BG</display-name><display-name>Box TV BG</display-name><icon src="https://iptvx.one/picons/box-music-tv-bg.png"/></channel>
+<channel id="box-myday"><display-name>BOX Mayday HD</display-name><display-name>BOX Mayday</display-name><icon src="https://iptvx.one/picons/box-myday.png"/></channel>
+<channel id="box-oscar"><display-name>BOX Oscar HD</display-name><display-name>BOX Oscar</display-name><icon src="https://iptvx.one/picons/box-oscar.png"/></channel>
+<channel id="box-premiere-plus-4khdr"><display-name>BOX Premiere+ 4K HDR</display-name><icon src="https://iptvx.one/picons/box-premiere-plus-4khdr.png"/></channel>
+<channel id="box-premiere4k"><display-name>BOX Premiere 4K</display-name><icon src="https://iptvx.one/picons/box-premiere4k.png"/></channel>
+<channel id="box-relax"><display-name>BOX Relax 4K</display-name><icon src="https://iptvx.one/picons/box-relax.png"/></channel>
+<channel id="box-remast-4k"><display-name>BOX Remast 4K</display-name><icon src="https://iptvx.one/picons/box-remast-4k.png"/></channel>
+<channel id="box-remast-plus-4k"><display-name>BOX Remast+ 4K</display-name><icon src="https://iptvx.one/picons/box-remast-plus-4k.png"/></channel>
+<channel id="box-ru-rap"><display-name>BOX RU.RAP HD</display-name><display-name>BOX RU.RAP</display-name><icon src="https://iptvx.one/picons/box-ru-rap.png"/></channel>
+<channel id="box-russian-4k"><display-name>BOX Russian 4K</display-name><icon src="https://iptvx.one/picons/box-russian-4k.png"/></channel>
+<channel id="box-serial"><display-name>BOX Serial HD</display-name><display-name>BOX Serial</display-name><icon src="https://iptvx.one/picons/box-serial.png"/></channel>
+<channel id="box-serial-premiere-4k"><display-name>BOX Serial Premiere 4K</display-name><icon src="https://iptvx.one/picons/box-serial-premiere-4k.png"/></channel>
+<channel id="box-serial4k"><display-name>BOX Serial 4K</display-name><icon src="https://iptvx.one/picons/box-serial4k.png"/></channel>
+<channel id="box-sitcom"><display-name>BOX Sitcom HD</display-name><icon src="https://iptvx.one/picons/box-sitcom.png"/></channel>
+<channel id="box-sport-1-live"><display-name>BOX Sport 1 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-1-live.png"/></channel>
+<channel id="box-sport-10-live"><display-name>BOX Sport 10 Live 4K</display-name><icon src="https://iptvx.one/picons/box-sport-10-live.png"/></channel>
+<channel id="box-sport-11-live"><display-name>BOX Sport 11 Live 4K</display-name><icon src="https://iptvx.one/picons/box-sport-11-live.png"/></channel>
+<channel id="box-sport-2-live"><display-name>BOX Sport 2 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-2-live.png"/></channel>
+<channel id="box-sport-3-live"><display-name>BOX Sport 3 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-3-live.png"/></channel>
+<channel id="box-sport-4-live"><display-name>BOX Sport 4 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-4-live.png"/></channel>
+<channel id="box-sport-5-live"><display-name>BOX Sport 5 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-5-live.png"/></channel>
+<channel id="box-sport-6-live"><display-name>BOX Sport 6 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-6-live.png"/></channel>
+<channel id="box-sport-7-live"><display-name>BOX Sport 7 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-7-live.png"/></channel>
+<channel id="box-sport-8-live"><display-name>BOX Sport 8 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-8-live.png"/></channel>
+<channel id="box-sport-9-live"><display-name>BOX Sport 9 Live HD</display-name><icon src="https://iptvx.one/picons/box-sport-9-live.png"/></channel>
+<channel id="box-sportcast"><display-name>BOX SportCast HD</display-name><display-name>BOX SportCast</display-name><icon src="https://iptvx.one/picons/box-sportcast.png"/></channel>
+<channel id="box-sportcast-live1"><display-name>BOX SportCast Live 1 HD</display-name><display-name>BOX SportCast Live 1</display-name><icon src="https://iptvx.one/picons/box-sportcast-live1.png"/></channel>
+<channel id="box-sportcast-live2"><display-name>BOX SportCast Live 2 HD</display-name><display-name>BOX SportCast Live 2</display-name><icon src="https://iptvx.one/picons/box-sportcast-live2.png"/></channel>
+<channel id="box-sportcast-live3"><display-name>BOX SportCast Live 3 HD</display-name><display-name>BOX SportCast Live 3</display-name><icon src="https://iptvx.one/picons/box-sportcast-live3.png"/></channel>
+<channel id="box-sportcast-live4"><display-name>BOX SportCast Live 4 HD</display-name><display-name>BOX SportCast Live 4</display-name><icon src="https://iptvx.one/picons/box-sportcast-live4.png"/></channel>
+<channel id="box-sportcast-live5"><display-name>BOX SportCast Live 5 HD</display-name><display-name>BOX SportCast Live 5</display-name><icon src="https://iptvx.one/picons/box-sportcast-live5.png"/></channel>
+<channel id="box-sportcast-live6"><display-name>BOX SportCast Live 6 HD</display-name><display-name>BOX SportCast Live 6</display-name><icon src="https://iptvx.one/picons/box-sportcast-live6.png"/></channel>
+<channel id="box-sportcast-live7"><display-name>BOX SportCast Live 7 HD</display-name><display-name>BOX SportCast Live 7</display-name><icon src="https://iptvx.one/picons/box-sportcast-live7.png"/></channel>
+<channel id="box-sportcast-live8"><display-name>BOX SportCast Live 8 HD</display-name><display-name>BOX SportCast Live 8</display-name><icon src="https://iptvx.one/picons/box-sportcast-live8.png"/></channel>
+<channel id="box-sportcast-live9"><display-name>BOX SportCast Live 9 HD</display-name><display-name>BOX SportCast Live 9</display-name><icon src="https://iptvx.one/picons/box-sportcast-live9.png"/></channel>
+<channel id="box-spy"><display-name>BOX Spy HD</display-name><display-name>BOX Spy</display-name><icon src="https://iptvx.one/picons/box-spy.png"/></channel>
+<channel id="box-sr-sport-2-live-4k-hdr"><display-name>BOX SR Sport 2 Live 4K HDR</display-name><icon src="https://iptvx.one/picons/box-sr-sport-2-live-4k-hdr.png"/></channel>
+<channel id="box-sr-sport-3-live-4k-hdr"><display-name>BOX SR Sport 3 Live 4K HDR</display-name><icon src="https://iptvx.one/picons/box-sr-sport-3-live-4k-hdr.png"/></channel>
+<channel id="box-sr-sport-4-live-4k-hdr"><display-name>BOX SR Sport 4 Live 4K HDR</display-name><icon src="https://iptvx.one/picons/box-sr-sport-4-live-4k-hdr.png"/></channel>
+<channel id="box-sr-sport-4k-hdr"><display-name>BOX SR Sport 4K HDR</display-name><icon src="https://iptvx.one/picons/box-sr-sport-4k-hdr.png"/></channel>
+<channel id="box-sr-sport-live-4k-hdr"><display-name>BOX SR Sport 1 Live 4K HDR</display-name><icon src="https://iptvx.one/picons/box-sr-sport-live-4k-hdr.png"/></channel>
+<channel id="box-sssr-4k"><display-name>BOX СССР 4K</display-name><icon src="https://iptvx.one/picons/box-sssr-4k.png"/></channel>
+<channel id="box-stories"><display-name>BOX Stories HD</display-name><display-name>BOX Stories</display-name><icon src="https://iptvx.one/picons/box-stories.png"/></channel>
+<channel id="box-travel"><display-name>BOX Travel HD</display-name><display-name>BOX Travel</display-name><icon src="https://iptvx.one/picons/box-travel.png"/></channel>
+<channel id="box-travel-premiere"><display-name>BOX Travel Premiere HD</display-name><display-name>BOX Travel Premiere</display-name><icon src="https://iptvx.one/picons/box-travel.png"/></channel>
+<channel id="box-tv"><display-name>Бокс ТВ</display-name><icon src="https://iptvx.one/picons/box-tv.png"/></channel>
+<channel id="box-ultrastars-4k"><display-name>BOX UltraStars 4K</display-name><icon src="https://iptvx.one/picons/box-ultrastars-4k.png"/></channel>
+<channel id="box-western"><display-name>BOX Western HD</display-name><display-name>BOX Western</display-name><icon src="https://iptvx.one/picons/box-western.png"/></channel>
+<channel id="box-zombie"><display-name>BOX Zombie HD</display-name><display-name>BOX Zombie</display-name><icon src="https://iptvx.one/picons/box-zombie.png"/></channel>
+<channel id="brazzers-tv-europe"><display-name>Brazzers TV</display-name><display-name>Brazzers TV Europe</display-name><icon src="https://iptvx.one/picons/brazzers.png"/></channel>
+<channel id="brazzers-tv-europe-ru"><display-name>Brazzers TV Россия</display-name><display-name>Brazzers TV Europe Россия</display-name><icon src="https://iptvx.one/picons/brazzers.png"/></channel>
+<channel id="briansk24"><display-name>Брянск 24</display-name><display-name>Брянск 24 HD</display-name><icon src="https://iptvx.one/picons/briansk24.png"/></channel>
+<channel id="brianskaya-gubernia"><display-name>Брянская Губерния</display-name><display-name>Брянская Губерния HD</display-name><icon src="https://iptvx.one/picons/brianskaya-gubernia.png"/></channel>
+<channel id="bridge-hd"><display-name>Bridge TV Deluxe</display-name><display-name>Bridge Deluxe</display-name><display-name>Bridge HD</display-name><icon src="https://iptvx.one/picons/bridge-hd.png"/></channel>
+<channel id="bridge-tv"><display-name>Bridge TV</display-name><display-name>Bridge</display-name><icon src="https://iptvx.one/picons/bridge-tv.png"/></channel>
+<channel id="bridge-tv-classic"><display-name>Bridge TV Classic</display-name><display-name>Bridge Classic</display-name><icon src="https://iptvx.one/picons/bridge-tv-classic.png"/></channel>
+<channel id="bridge-tv-dance"><display-name>Bridge TV Hits</display-name><display-name>Bridge TV Dance</display-name><icon src="https://iptvx.one/picons/bridge-tv-dance.png"/></channel>
+<channel id="bridge-tv-etno"><display-name>Bridge TV Этно</display-name><icon src="https://iptvx.one/picons/bridge-tv-etno.png"/></channel>
+<channel id="bridge-tv-fresh"><display-name>Bridge TV Фрэш</display-name><display-name>Bridge Фрэш</display-name><display-name>Bridge TV Fresh</display-name><icon src="https://iptvx.one/picons/bridge-tv-fresh.png"/></channel>
+<channel id="bridge-tv-rock"><display-name>Bridge TV Rock</display-name><display-name>Bridge Rock</display-name><icon src="https://iptvx.one/picons/bridge-tv-rock.png"/></channel>
+<channel id="bridge-tv-ruxit"><display-name>Bridge TV Русский хит</display-name><display-name>Rusong TV</display-name><icon src="https://iptvx.one/picons/bridge-tv-ruxit.png"/></channel>
+<channel id="bridge-tv-shlager"><display-name>Bridge TV Шлягер</display-name><display-name>Bridge Шлягер</display-name><icon src="https://iptvx.one/picons/bridge-tv-shlager.png"/></channel>
+<channel id="bst"><display-name>БСТ</display-name><display-name>Башкирское спутниковое телевидение</display-name><icon src="https://iptvx.one/picons/bst.png"/></channel>
+<channel id="bst-bratsk"><display-name>БСТ Братск</display-name><icon src="https://iptvx.one/picons/bst-bratsk.png"/></channel>
+<channel id="bt-sport-4k"><display-name>BT Sport 4K</display-name><display-name>TNT Sport UHD 4K</display-name><display-name>TNT Sport Ultra HD 4K</display-name><icon src="https://iptvx.one/picons/bt-sport-4k.png"/></channel>
+<channel id="bt-sport1"><display-name>BT Sport 1 HD</display-name><display-name>TNT Sport 1</display-name><display-name>TNT Sport 1 HD</display-name><icon src="https://iptvx.one/picons/bt-sport1.png"/></channel>
+<channel id="bt-sport10"><display-name>BT Sports 10 HD</display-name><display-name>TNT Sports 10</display-name><display-name>TNT Sports 10 HD</display-name><icon src="https://iptvx.one/picons/bt-sport10.png"/></channel>
+<channel id="bt-sport2"><display-name>BT Sport 2 HD</display-name><display-name>TNT Sport 2</display-name><display-name>TNT Sport 2 HD</display-name><icon src="https://iptvx.one/picons/bt-sport2.png"/></channel>
+<channel id="bt-sport3"><display-name>BT Sport 3 HD</display-name><display-name>TNT Sport 3</display-name><display-name>TNT Sport 3 HD</display-name><icon src="https://iptvx.one/picons/bt-sport3.png"/></channel>
+<channel id="bt-sport4"><display-name>BT Sport 4 HD</display-name><display-name>TNT Sport 4</display-name><display-name>TNT Sport 4 HD</display-name><icon src="https://iptvx.one/picons/bt-sport4.png"/></channel>
+<channel id="bt-sport5"><display-name>BT Sport 5 HD</display-name><display-name>TNT Sport 5</display-name><display-name>TNT Sport 5 HD</display-name><icon src="https://iptvx.one/picons/bt-sport5.png"/></channel>
+<channel id="bt-sport6"><display-name>BT Sport 6 HD</display-name><display-name>TNT Sport 6</display-name><display-name>TNT Sport 6 HD</display-name><icon src="https://iptvx.one/picons/bt-sport6.png"/></channel>
+<channel id="bt-sport7"><display-name>BT Sport 7 HD</display-name><display-name>TNT Sport 7</display-name><display-name>TNT Sport 7 HD</display-name><icon src="https://iptvx.one/picons/bt-sport7.png"/></channel>
+<channel id="bt-sport8"><display-name>BT Sport 8 HD</display-name><display-name>TNT Sport 8</display-name><display-name>TNT Sport 8 HD</display-name><icon src="https://iptvx.one/picons/bt-sport8.png"/></channel>
+<channel id="bt-sport9"><display-name>BT Sport 9 HD</display-name><display-name>TNT Sport 9</display-name><display-name>TNT Sport 9 HD</display-name><icon src="https://iptvx.one/picons/bt-sport9.png"/></channel>
+<channel id="btv"><display-name>BTV</display-name><icon src="https://iptvx.one/picons/btv.png"/></channel>
+<channel id="btvmd"><display-name>БТВ</display-name><display-name>Бендерское ТВ</display-name><display-name>Бенедерское телевидение</display-name><icon src="https://iptvx.one/picons/btvmd.png"/></channel>
+<channel id="bug-tv"><display-name>Буг-ТВ</display-name><display-name>БугТВ</display-name><display-name>Буг ТВ</display-name><icon src="https://iptvx.one/picons/bug-tv.png"/></channel>
+<channel id="buriaad"><display-name>Буряад ТВ</display-name><icon src="https://iptvx.one/picons/buriaad.png"/></channel>
+<channel id="c-cartoon"><display-name>C-Cartoon</display-name><display-name>YOSSO TV C-Cartoon</display-name><icon src="https://iptvx.one/picons/c-cartoon.png"/></channel>
+<channel id="c-comedy"><display-name>C-Comedy</display-name><display-name>YOSSO TV C-Comedy</display-name><icon src="https://iptvx.one/picons/c-comedy.png"/></channel>
+<channel id="c-history"><display-name>C-History</display-name><display-name>YOSSO TV C-History</display-name><icon src="https://iptvx.one/picons/c-history.png"/></channel>
+<channel id="c-holiday"><display-name>C-Holiday</display-name><display-name>YOSSO TV C-Holiday</display-name><icon src="https://iptvx.one/picons/c-holiday.png"/></channel>
+<channel id="c-inquest"><display-name>C-Inquest</display-name><display-name>YOSSO TV C-Inquest</display-name><icon src="https://iptvx.one/picons/c-inquest.png"/></channel>
+<channel id="c-live"><display-name>Citrus Live HD</display-name><display-name>C-Live HD</display-name><icon src="https://iptvx.one/picons/c-live.png"/></channel>
+<channel id="c-marvel"><display-name>C-Marvel</display-name><display-name>YOSSO TV C-Marvel</display-name><icon src="https://iptvx.one/picons/c-marvel.png"/></channel>
+<channel id="c-music-tv"><display-name>C Music TV</display-name><display-name>C Music TV HD</display-name><display-name>Stingray CMusic HD</display-name><display-name>Stingray CMusic</display-name><icon src="https://iptvx.one/picons/c-music-tv.png"/></channel>
+<channel id="canal-pl-1"><display-name>Canal+ 1 HD</display-name><display-name>Canal+ 1</display-name><display-name>Canal+ 1 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-1.png"/></channel>
+<channel id="canal-pl-4k"><display-name>Canal+ 4K</display-name><display-name>Canal+ 4K [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-4k.png"/></channel>
+<channel id="canal-pl-dokument"><display-name>Canal+ Dokument HD</display-name><display-name>Canal+ Dokument</display-name><display-name>Canal+ Dokument [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-dokument.png"/></channel>
+<channel id="canal-pl-domo"><display-name>Canal+ Domo HD</display-name><display-name>Canal+ Domo</display-name><display-name>Canal+ Domo [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-domo.png"/></channel>
+<channel id="canal-pl-extra-1"><display-name>Canal+ Extra 1 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-extra-1.png"/></channel>
+<channel id="canal-pl-extra-2"><display-name>Canal+ Extra 2 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-extra-2.png"/></channel>
+<channel id="canal-pl-extra-3"><display-name>Canal+ Extra 3 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-extra-3.png"/></channel>
+<channel id="canal-pl-extra-4"><display-name>Canal+ Extra 4 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-extra-4.png"/></channel>
+<channel id="canal-pl-extra-5"><display-name>Canal+ Extra 5 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-extra-5.png"/></channel>
+<channel id="canal-pl-extra-6"><display-name>Canal+ Extra 6 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-extra-6.png"/></channel>
+<channel id="canal-pl-extra-7"><display-name>Canal+ Extra 7 [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-extra-7.png"/></channel>
+<channel id="canal-pl-family"><display-name>Canal+ Family HD</display-name><display-name>Canal+ Family</display-name><display-name>Canal+ Family [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-family.png"/></channel>
+<channel id="canal-pl-film"><display-name>Canal+ Film HD</display-name><display-name>Canal+ Film</display-name><display-name>Canal+ Film [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-film.png"/></channel>
+<channel id="canal-pl-foot-fr"><display-name>Canal+ Foot [FR]</display-name><icon src="https://iptvx.one/picons/canal-pl-foot-fr.png"/></channel>
+<channel id="canal-pl-kuchnia"><display-name>Canal+ Kuchnia HD</display-name><display-name>Canal+ Kuchnia</display-name><display-name>Canal+ Kuchnia [PL]</display-name><display-name>Kuchnia+ [PL]</display-name><display-name>Kuchnia+ HD [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-kuchnia.png"/></channel>
+<channel id="canal-pl-pl-fr"><display-name>Canal+ Premier League [FR]</display-name><icon src="https://iptvx.one/picons/canal-pl-pl-fr.png"/></channel>
+<channel id="canal-pl-premium"><display-name>Canal+ Premium HD</display-name><display-name>Canal+ Premium</display-name><display-name>Canal+ Premium [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-premium.png"/></channel>
+<channel id="canal-pl-seriale"><display-name>Canal+ Seriale HD</display-name><display-name>Canal+ Seriale</display-name><display-name>Canal+ Seriale [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-seriale.png"/></channel>
+<channel id="canal-pl-sport-1"><display-name>Canal+ Sport 1 [PL]</display-name><display-name>Canal+ Sport 1 HD [PL]</display-name><display-name>Canal+ Sport [PL]</display-name><display-name>Canal+ Sport HD [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport.png"/></channel>
+<channel id="canal-pl-sport-2"><display-name>Canal+ Sport 2 [PL]</display-name><display-name>Canal+ Sport 2 HD [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport-2.png"/></channel>
+<channel id="canal-pl-sport-3"><display-name>Canal+ Sport 3 [PL]</display-name><display-name>Canal+ Sport 3 HD [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport-3.png"/></channel>
+<channel id="canal-pl-sport-4"><display-name>Canal+ Sport 4 [PL]</display-name><display-name>Canal+ Sport 4 HD [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport-4.png"/></channel>
+<channel id="canal-pl-sport-5"><display-name>Canal+ Sport 5 [PL]</display-name><display-name>Canal+ Sport 5 HD [PL]</display-name><display-name>nSport+ [PL]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport-5.png"/></channel>
+<channel id="canal-pl-sport-cz"><display-name>Canal+ Sport [CZ]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport-cz.png"/></channel>
+<channel id="canal-pl-sport-fr"><display-name>Canal+ Sport [FR]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport-fr.png"/></channel>
+<channel id="canal-pl-sport2-cz"><display-name>Canal+ Sport 2 [CZ]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport2-cz.png"/></channel>
+<channel id="canal-pl-sport360-fr"><display-name>Canal+ Sport 360 [FR]</display-name><icon src="https://iptvx.one/picons/canal-pl-sport360-fr.png"/></channel>
+<channel id="canal11-pt"><display-name>Canal 11 [PT]</display-name><icon src="https://iptvx.one/picons/canal11-pt.png"/></channel>
+<channel id="candy"><display-name>Candy</display-name><display-name>Candy 3D HD</display-name><display-name>Candy HD</display-name><icon src="https://iptvx.one/picons/candy.png"/></channel>
+<channel id="candyman"><display-name>CandyMan</display-name><display-name>Candy Man</display-name><icon src="https://iptvx.one/picons/candyman.png"/></channel>
+<channel id="cars-n-stars"><display-name>Cars &amp; Stars TV</display-name><icon src="https://iptvx.one/picons/cars-n-stars.png"/></channel>
+<channel id="cartoon-classics"><display-name>Cartoon Classics</display-name><icon src="https://iptvx.one/picons/cartoon-classics.png"/></channel>
+<channel id="cartoon-network"><display-name>Cartoon Network</display-name><display-name>Cartoon Network HD</display-name><icon src="https://iptvx.one/picons/cartoon-network.png"/></channel>
+<channel id="cartoons-90"><display-name>Cartoons 90</display-name><icon src="https://iptvx.one/picons/cartoons-90.png"/></channel>
+<channel id="cartoons-big"><display-name>Cartoons Big</display-name><icon src="https://iptvx.one/picons/cartoons-big.png"/></channel>
+<channel id="cartoons-short"><display-name>Cartoons Short</display-name><icon src="https://iptvx.one/picons/cartoons-short.png"/></channel>
+<channel id="caspian-news"><display-name>Caspian News</display-name><display-name>Caspian News HD</display-name><icon src="https://iptvx.one/picons/caspian-news.png"/></channel>
+<channel id="cbc-az"><display-name>CBC</display-name><display-name>CBC AZ</display-name><icon src="https://iptvx.one/picons/cbc-az.png"/></channel>
+<channel id="cbc-sport"><display-name>CBC Sport</display-name><display-name>CBC Sport HD</display-name><icon src="https://iptvx.one/picons/cbc-sport.png"/></channel>
+<channel id="cbs-reality-pl"><display-name>CBS Reality [PL]</display-name><icon src="https://iptvx.one/picons/cbs-reality.png"/></channel>
+<channel id="cbs-sports-network-us"><display-name>CBS Sports Network [US]</display-name><icon src="https://iptvx.one/picons/cbs-sports-network-us.png"/></channel>
+<channel id="cctv-ru"><display-name>CCTV-Русский</display-name><display-name>CGTN-Русский</display-name><icon src="https://iptvx.one/picons/cctv-ru.png"/></channel>
+<channel id="cctv4"><display-name>CCTV4</display-name><display-name>CCTV4 Europe</display-name><icon src="https://iptvx.one/picons/cctv4.png"/></channel>
+<channel id="centr-kraskoyarsk"><display-name>Центр Красноярск</display-name><icon src="https://iptvx.one/picons/centr-kraskoyarsk.png"/></channel>
+<channel id="centralnoye-tv"><display-name>ЦТ</display-name><display-name>ЦТВ</display-name><display-name>Центральное телевидение</display-name><icon src="https://iptvx.one/picons/centralnoye-tv.png"/></channel>
+<channel id="cgtn"><display-name>CGTN</display-name><icon src="https://iptvx.one/picons/cgtn.png"/></channel>
+<channel id="channel-11-il"><display-name>Channel 11 IL</display-name><display-name>Кан 11 HD</display-name><icon src="https://iptvx.one/picons/channel-11-il.png"/></channel>
+<channel id="channel-12-il"><display-name>Channel 12 IL</display-name><display-name>Кешет HD</display-name><icon src="https://iptvx.one/picons/channel-12-il.png"/></channel>
+<channel id="channel-13-il"><display-name>Channel 13 IL</display-name><display-name>Решет HD</display-name><icon src="https://iptvx.one/picons/channel-13-il.png"/></channel>
+<channel id="chavash-en"><display-name>Чаваш ЕН</display-name><icon src="https://iptvx.one/picons/chavash-en.png"/></channel>
+<channel id="che"><display-name>Че</display-name><display-name>Че!</display-name><icon src="https://iptvx.one/picons/che.png"/></channel>
+<channel id="che-pl2"><display-name>Че +2</display-name><display-name>Че! (+2)</display-name><icon src="https://iptvx.one/picons/che-pl2.png"/></channel>
+<channel id="che-pl4"><display-name>Че +4</display-name><display-name>Че! (+4)</display-name><icon src="https://iptvx.one/picons/che-pl4.png"/></channel>
+<channel id="che-pl7"><display-name>Че +7</display-name><display-name>Че! (+7)</display-name><icon src="https://iptvx.one/picons/che-pl7.png"/></channel>
+<channel id="chemodan"><display-name>Чемодан</display-name><icon src="https://iptvx.one/picons/chemodan.png"/></channel>
+<channel id="chizhik"><display-name>Чижик</display-name><icon src="https://iptvx.one/picons/chizhik.png"/></channel>
+<channel id="ci-polsat"><display-name>CI Polsat</display-name><display-name>CI Polsat HD</display-name><display-name>Crime + Investigation [PL]</display-name><icon src="https://iptvx.one/picons/ci-polsat.png"/></channel>
+<channel id="cine-plus"><display-name>Cine+</display-name><display-name>Cine+ HD</display-name><icon src="https://iptvx.one/picons/cine-plus.png"/></channel>
+<channel id="cine-plus-hit-hd"><display-name>Cine+ Hit</display-name><display-name>Cine+ Hit HD</display-name><icon src="https://iptvx.one/picons/cine-plus-hit-hd.png"/></channel>
+<channel id="cine-plus-kids"><display-name>Cine+ Kids</display-name><display-name>Cine+ Kids HD</display-name><icon src="https://iptvx.one/picons/cine-plus-kids.png"/></channel>
+<channel id="cine-plus-ledend"><display-name>Cine+ Legend HD</display-name><display-name>Cine+ Legend</display-name><icon src="https://iptvx.one/picons/cine-plus-ledend.png"/></channel>
+<channel id="cine-plus-mix"><display-name>Cine+ Mix</display-name><icon src="https://iptvx.one/picons/cine-plus-mix.png"/></channel>
+<channel id="cinema"><display-name>Cinema Cosmos TV</display-name><display-name>Cinema Космос ТВ</display-name><icon src="https://iptvx.one/picons/cinema.png"/></channel>
+<channel id="cinema-ru"><display-name>Cinema</display-name><display-name>Cinema HD</display-name><icon src="https://iptvx.one/picons/cinema-ru.png"/></channel>
+<channel id="cinema1-md"><display-name>Cinema 1 MD</display-name><display-name>Cinema 1 Молдова</display-name><icon src="https://iptvx.one/picons/cinema1-md.png"/></channel>
+<channel id="cineman"><display-name>CineMan</display-name><icon src="https://iptvx.one/picons/cineman.png"/></channel>
+<channel id="cineman-action"><display-name>CineMan Action</display-name><icon src="https://iptvx.one/picons/cineman-action.png"/></channel>
+<channel id="cineman-aircrash"><display-name>CineMan Air Crash</display-name><icon src="https://iptvx.one/picons/cineman-aircrash.png"/></channel>
+<channel id="cineman-comedy"><display-name>CineMan Комедия</display-name><icon src="https://iptvx.one/picons/cineman-comedy.png"/></channel>
+<channel id="cineman-fitnes"><display-name>CineMan Фитнес</display-name><icon src="https://iptvx.one/picons/cineman-fitnes.png"/></channel>
+<channel id="cineman-gluhar"><display-name>CineMan Криминальные Сериалы</display-name><icon src="https://iptvx.one/picons/cineman-gluhar.png"/></channel>
+<channel id="cineman-katastrofy"><display-name>CineMan Катастрофы</display-name><icon src="https://iptvx.one/picons/cineman-katastrofy.png"/></channel>
+<channel id="cineman-kids4k"><display-name>CineMan Kids 4K</display-name><icon src="https://iptvx.one/picons/cineman-kids4k.png"/></channel>
+<channel id="cineman-komseri"><display-name>CineMan Комедийные сериалы</display-name><icon src="https://iptvx.one/picons/cineman-komseri.png"/></channel>
+<channel id="cineman-lesnik"><display-name>CineMan Лесник</display-name><icon src="https://iptvx.one/picons/cineman-lesnik.png"/></channel>
+<channel id="cineman-marvel"><display-name>CineMan Marvel</display-name><icon src="https://iptvx.one/picons/cineman-marvel.png"/></channel>
+<channel id="cineman-melodrama"><display-name>CineMan Melodrama</display-name><icon src="https://iptvx.one/picons/cineman-melodrama.png"/></channel>
+<channel id="cineman-miniseries"><display-name>CineMan MiniSeries</display-name><icon src="https://iptvx.one/picons/cineman-miniseries.png"/></channel>
+<channel id="cineman-musw"><display-name>CineMan Ментовские Войны</display-name><icon src="https://iptvx.one/picons/cineman-musw.png"/></channel>
+<channel id="cineman-old4k"><display-name>CineMan OLD 4K</display-name><icon src="https://iptvx.one/picons/cineman-old4k.png"/></channel>
+<channel id="cineman-pes"><display-name>CineMan ПёС + Лихач</display-name><icon src="https://iptvx.one/picons/cineman-pes.png"/></channel>
+<channel id="cineman-premium"><display-name>CineMan Premium</display-name><icon src="https://iptvx.one/picons/cineman-premium.png"/></channel>
+<channel id="cineman-relax"><display-name>CineMan Relax 4K</display-name><icon src="https://iptvx.one/picons/cineman-relax.png"/></channel>
+<channel id="cineman-rukino"><display-name>CineMan РуКино</display-name><icon src="https://iptvx.one/picons/cineman-rukino.png"/></channel>
+<channel id="cineman-simps"><display-name>CineMan Симпсоны</display-name><icon src="https://iptvx.one/picons/cineman-simps.png"/></channel>
+<channel id="cineman-skorpom"><display-name>CineMan Скорая помощь</display-name><icon src="https://iptvx.one/picons/cineman-skorpom.png"/></channel>
+<channel id="cineman-sssr4k"><display-name>CineMan CCCP 4K</display-name><icon src="https://iptvx.one/picons/cineman-sssr4k.png"/></channel>
+<channel id="cineman-svaty"><display-name>CineMan Сваты</display-name><icon src="https://iptvx.one/picons/cineman-svaty.png"/></channel>
+<channel id="cineman-thriller"><display-name>CineMan Thriller</display-name><icon src="https://iptvx.one/picons/cineman-thriller.png"/></channel>
+<channel id="cineman-top"><display-name>CineMan Top</display-name><icon src="https://iptvx.one/picons/cineman-top.png"/></channel>
+<channel id="cineman-uzhasy"><display-name>CineMan Ужасы</display-name><icon src="https://iptvx.one/picons/cineman-uzhasy.png"/></channel>
+<channel id="cineman-vhs"><display-name>CineMan VHS</display-name><icon src="https://iptvx.one/picons/cineman-vhs.png"/></channel>
+<channel id="cineman-vovserials"><display-name>CineMan Военные Сериалы</display-name><icon src="https://iptvx.one/picons/cineman-vovserials.png"/></channel>
+<channel id="cinemax"><display-name>Cinemax</display-name><display-name>Cinemax HD</display-name><icon src="https://iptvx.one/picons/cinemax.png"/></channel>
+<channel id="cinemax2"><display-name>Cinemax 2</display-name><display-name>Cinemax 2 HD</display-name><icon src="https://iptvx.one/picons/cinemax2.png"/></channel>
+<channel id="city-tv-bg"><display-name>City TV [BG]</display-name><icon src="https://iptvx.one/picons/city-tv-bg.png"/></channel>
+<channel id="ck1-ua"><display-name>СК1</display-name><display-name>СК1 Житомир</display-name><icon src="https://iptvx.one/picons/ck1-ua.png"/></channel>
+<channel id="clarity4k-anime"><display-name>Clarity4K Anime</display-name><icon src="https://iptvx.one/picons/clarity4k-anime.png"/></channel>
+<channel id="clarity4k-asia"><display-name>Clarity4K Asia</display-name><icon src="https://iptvx.one/picons/clarity4k-asia.png"/></channel>
+<channel id="clarity4k-avtomaster"><display-name>Clarity4K Авто Блог</display-name><display-name>Clarity4K АвтоМастер</display-name><icon src="https://iptvx.one/picons/clarity4k-avtomaster.png"/></channel>
+<channel id="clarity4k-boevik"><display-name>Clarity4K Боевик</display-name><icon src="https://iptvx.one/picons/clarity4k-boevik.png"/></channel>
+<channel id="clarity4k-boevikvhs"><display-name>Clarity4K Боевик VHS</display-name><icon src="https://iptvx.one/picons/clarity4k-boevikvhs.png"/></channel>
+<channel id="clarity4k-comedya-vhs"><display-name>Clarity4K Комедия VHS</display-name><display-name>Clarity4K Комедия (VHS)</display-name><icon src="https://iptvx.one/picons/clarity4k-comedya-vhs.png"/></channel>
+<channel id="clarity4k-dramy"><display-name>Clarity4K Драмы</display-name><icon src="https://iptvx.one/picons/clarity4k-dramy.png"/></channel>
+<channel id="clarity4k-edinoborstva"><display-name>Clarity4K Единоборства</display-name><icon src="https://iptvx.one/picons/clarity4k-edinoborstva.png"/></channel>
+<channel id="clarity4k-fantastik"><display-name>Clarity4K Фантастика</display-name><icon src="https://iptvx.one/picons/clarity4k-fantastik.png"/></channel>
+<channel id="clarity4k-fantastik-s"><display-name>Clarity4K Фантастика (siries)</display-name><icon src="https://iptvx.one/picons/clarity4k-fantastik-s.png"/></channel>
+<channel id="clarity4k-fentezy"><display-name>Clarity4K Фэнтези</display-name><icon src="https://iptvx.one/picons/clarity4k-fentezy.png"/></channel>
+<channel id="clarity4k-galaxyfilms"><display-name>Clarity4K Galaxy Films</display-name><icon src="https://iptvx.one/picons/clarity4k-galaxyfilms.png"/></channel>
+<channel id="clarity4k-gamefilm"><display-name>Clarity4K Gamefilm</display-name><icon src="https://iptvx.one/picons/clarity4k-gamefilm.png"/></channel>
+<channel id="clarity4k-hboseries"><display-name>Clarity4K HBO series</display-name><icon src="https://iptvx.one/picons/clarity4k-hboseries.png"/></channel>
+<channel id="clarity4k-istoriivrema"><display-name>Clarity4K Ужасы VHS</display-name><display-name>Clarity4K Истории во времени</display-name><icon src="https://iptvx.one/picons/clarity4k-istoriivrema.png"/></channel>
+<channel id="clarity4k-kinidetisssr"><display-name>Clarity4K Kинодети CССР</display-name><icon src="https://iptvx.one/picons/clarity4k-kinidetisssr.png"/></channel>
+<channel id="clarity4k-kinofranshizy"><display-name>Clarity4K КиноФраншизы</display-name><icon src="https://iptvx.one/picons/clarity4k-kinofranshizy.png"/></channel>
+<channel id="clarity4k-kinonowinki"><display-name>Clarity4K КиноНовинки</display-name><icon src="https://iptvx.one/picons/clarity4k-kinonowinki.png"/></channel>
+<channel id="clarity4k-kinoszarm"><display-name>Clarity4K КиноШарм</display-name><icon src="https://iptvx.one/picons/clarity4k-kinoszarm.png"/></channel>
+<channel id="clarity4k-komedia"><display-name>Clarity4K Комедия</display-name><icon src="https://iptvx.one/picons/clarity4k-komedia.png"/></channel>
+<channel id="clarity4k-komediasssr1"><display-name>Clarity4K Комедия СССР 1</display-name><icon src="https://iptvx.one/picons/clarity4k-komediasssr1.png"/></channel>
+<channel id="clarity4k-komediasssr2"><display-name>Clarity4K Комедия СССР 2</display-name><icon src="https://iptvx.one/picons/clarity4k-komediasssr2.png"/></channel>
+<channel id="clarity4k-kosmomir"><display-name>Clarity4K Космомир</display-name><icon src="https://iptvx.one/picons/clarity4k-kosmomir.png"/></channel>
+<channel id="clarity4k-kosmomir2"><display-name>Clarity4K Космомир 2</display-name><icon src="https://iptvx.one/picons/clarity4k-kosmomir2.png"/></channel>
+<channel id="clarity4k-marvel"><display-name>Clarity4K Marvel</display-name><icon src="https://iptvx.one/picons/clarity4k-marvel.png"/></channel>
+<channel id="clarity4k-molkom"><display-name>Clarity4K Молодежные комедии</display-name><icon src="https://iptvx.one/picons/clarity4k-molkom.png"/></channel>
+<channel id="clarity4k-multimir"><display-name>Clarity4K Мультимир</display-name><icon src="https://iptvx.one/picons/clarity4k-multimir.png"/></channel>
+<channel id="clarity4k-multlandia"><display-name>Clarity4K Мультляндия</display-name><icon src="https://iptvx.one/picons/clarity4k-multlandia.png"/></channel>
+<channel id="clarity4k-nashekino"><display-name>Clarity4K Наше кино</display-name><icon src="https://iptvx.one/picons/clarity4k-nashekino.png"/></channel>
+<channel id="clarity4k-netflix"><display-name>Clarity4K Netflix</display-name><icon src="https://iptvx.one/picons/clarity4k-netflix.png"/></channel>
+<channel id="clarity4k-prikluchenia"><display-name>Clarity4K Приключения</display-name><icon src="https://iptvx.one/picons/clarity4k-prikluchenia.png"/></channel>
+<channel id="clarity4k-puteshestvie"><display-name>Clarity4K Travel Blog</display-name><display-name>Clarity4K Путешествие</display-name><icon src="https://iptvx.one/picons/clarity4k-puteshestvie.png"/></channel>
+<channel id="clarity4k-relaxkamin"><display-name>Clarity4К Города</display-name><display-name>Clarity4K Relax Камин</display-name><display-name>Clarity4К Around The World</display-name><icon src="https://iptvx.one/picons/clarity4k-relaxkamin.png"/></channel>
+<channel id="clarity4k-retroskazka1"><display-name>Clarity4K Ретро-Сказка 1</display-name><icon src="https://iptvx.one/picons/clarity4k-retroskazka1.png"/></channel>
+<channel id="clarity4k-retroskazka2"><display-name>Clarity4K Ретро-Сказка 2</display-name><icon src="https://iptvx.one/picons/clarity4k-retroskazka2.png"/></channel>
+<channel id="clarity4k-ruserialy"><display-name>Clarity4K Русские сериалы</display-name><icon src="https://iptvx.one/picons/clarity4k-ruserialy.png"/></channel>
+<channel id="clarity4k-sdelanowsssr"><display-name>Clarity4K КиноСССР</display-name><display-name>Clarity4K Сделано в СССР</display-name><icon src="https://iptvx.one/picons/clarity4k-sdelanowsssr.png"/></channel>
+<channel id="clarity4k-semejny"><display-name>Clarity4K Семейный</display-name><icon src="https://iptvx.one/picons/clarity4k-semejny.png"/></channel>
+<channel id="clarity4k-sumerefir"><display-name>Clarity4K Сумеречный Эфир</display-name><icon src="https://iptvx.one/picons/clarity4k-sumerefir.png"/></channel>
+<channel id="clarity4k-teatr"><display-name>Clarity4K Театр</display-name><icon src="https://iptvx.one/picons/clarity4k-teatr.png"/></channel>
+<channel id="clarity4k-thriller"><display-name>Clarity4K Триллер</display-name><icon src="https://iptvx.one/picons/clarity4k-thriller.png"/></channel>
+<channel id="clarity4k-ufo"><display-name>Clarity4K UFO</display-name><icon src="https://iptvx.one/picons/clarity4k-ufo.png"/></channel>
+<channel id="clarity4k-universe"><display-name>Clarity4K Вселенная</display-name><icon src="https://iptvx.one/picons/clarity4k-universe.png"/></channel>
+<channel id="clarity4k-uzasy"><display-name>Clarity4K Ужасы</display-name><icon src="https://iptvx.one/picons/clarity4k-uzasy.png"/></channel>
+<channel id="clarity4k-uzhvhs-s"><display-name>Clarity4K Ужасы VHS (siries)</display-name><icon src="https://iptvx.one/picons/clarity4k-uzhvhs-s.png"/></channel>
+<channel id="clarity4k-waltdisney"><display-name>Clarity4K Walt Disney</display-name><icon src="https://iptvx.one/picons/clarity4k-waltdisney.png"/></channel>
+<channel id="clarity4k-western"><display-name>Clarity4K Классика кино</display-name><display-name>Clarity4K Вестерн</display-name><icon src="https://iptvx.one/picons/clarity4k-western.png"/></channel>
+<channel id="clarity4k-zapal"><display-name>Clarity4K Запал</display-name><icon src="https://iptvx.one/picons/clarity4k-zapal.png"/></channel>
+<channel id="clarity4k-zwerinmir"><display-name>Clarity4K Звериный мир</display-name><icon src="https://iptvx.one/picons/clarity4k-zwerinmir.png"/></channel>
+<channel id="classic-music"><display-name>Classic Music</display-name><display-name>Classic Music HD</display-name><icon src="https://iptvx.one/picons/classic-music.png"/></channel>
+<channel id="clubbing-tv"><display-name>Clubbing TV</display-name><display-name>Clubbing TV HD</display-name><icon src="https://iptvx.one/picons/clubbing-tv.png"/></channel>
+<channel id="clubland-uk"><display-name>Clubland UK</display-name><icon src="https://iptvx.one/picons/clubland-uk.png"/></channel>
+<channel id="cmore-fotboll"><display-name>C More Fotboll HD</display-name><display-name>TV4 Fotboll HD</display-name><display-name>TV4 Fotboll</display-name><display-name>C More Fotboll</display-name><icon src="https://iptvx.one/picons/cmore-fotboll.png"/></channel>
+<channel id="cmore-golf"><display-name>C More Mix HD</display-name><display-name>TV4 Motor HD</display-name><display-name>TV4 Motor</display-name><display-name>C More Mix</display-name><display-name>C More Golf HD</display-name><display-name>C More Golf</display-name><icon src="https://iptvx.one/picons/cmore-golf.png"/></channel>
+<channel id="cmore-hockey"><display-name>C More Hockey HD</display-name><display-name>TV4 Hockey HD</display-name><display-name>TV4 Hockey</display-name><display-name>C More Hockey</display-name><icon src="https://iptvx.one/picons/cmore-hockey.png"/></channel>
+<channel id="cnbc-europe"><display-name>CNBC</display-name><display-name>CNBC Europe</display-name><icon src="https://iptvx.one/picons/cnbc-europe.png"/></channel>
+<channel id="cnbc-us"><display-name>CNBC [US]</display-name><icon src="https://iptvx.one/picons/cnbc-us.png"/></channel>
+<channel id="cnl-amerika"><display-name>GNC Америка</display-name><display-name>CNL Америка</display-name><icon src="https://iptvx.one/picons/cnl-amerika.png"/></channel>
+<channel id="cnl-eu"><display-name>GNC Европа</display-name><display-name>CNL Европа</display-name><icon src="https://iptvx.one/picons/cnl-eu.png"/></channel>
+<channel id="cnl-sibir"><display-name>GNC Сибирь</display-name><display-name>CNL Сибирь</display-name><icon src="https://iptvx.one/picons/cnl-sibir.png"/></channel>
+<channel id="cnn"><display-name>CNN International</display-name><display-name>CNNI</display-name><display-name>CNN International HD</display-name><icon src="https://iptvx.one/picons/cnn.png"/></channel>
+<channel id="cnn-turk"><display-name>CNN TÜRK HD</display-name><icon src="https://iptvx.one/picons/cnn-turk.png"/></channel>
+<channel id="comedy-central-pl"><display-name>Comedy Central [PL]</display-name><display-name>Comedy Central HD [PL]</display-name><icon src="https://iptvx.one/picons/comedy-central-pl.png"/></channel>
+<channel id="comedy-stage-c"><display-name>Comedy Stage</display-name><icon src="https://iptvx.one/picons/comedy-stage-c.png"/></channel>
+<channel id="comedyhub"><display-name>Comedy Hub</display-name><icon src="https://iptvx.one/picons/comedyhub.png"/></channel>
+<channel id="continent-e"><display-name>Continent E</display-name><icon src="https://iptvx.one/picons/continent-e.png"/></channel>
+<channel id="courtside1891"><display-name>Courtside 1891</display-name><icon src="https://iptvx.one/picons/courtside1891.png"/></channel>
+<channel id="crime-golden-c"><display-name>Crime Golden</display-name><icon src="https://iptvx.one/picons/crime-golden-c.png"/></channel>
+<channel id="crime-today-c"><display-name>Crime Today</display-name><icon src="https://iptvx.one/picons/crime-today-c.png"/></channel>
+<channel id="ct-sport"><display-name>ČT4 Sport</display-name><display-name>ČT Sport</display-name><display-name>CT Sport</display-name><display-name>CT4 Sport</display-name><icon src="https://iptvx.one/picons/ct-sport.png"/></channel>
+<channel id="ct1-cz"><display-name>ČT1</display-name><icon src="https://iptvx.one/picons/ct1-cz.png"/></channel>
+<channel id="ct2-cz"><display-name>ČT2</display-name><icon src="https://iptvx.one/picons/ct2-cz.png"/></channel>
+<channel id="ct24-cz"><display-name>ČT24</display-name><icon src="https://iptvx.one/picons/ct24-cz.png"/></channel>
+<channel id="cum4k"><display-name>Cum4k UHD</display-name><icon src="https://iptvx.one/picons/cum4k.png"/></channel>
+<channel id="curiosity-stream"><display-name>Curiosity Stream</display-name><display-name>Curiosity Stream HD</display-name><icon src="https://iptvx.one/picons/curiosity-stream.png"/></channel>
+<channel id="d1-dnepr"><display-name>D1</display-name><display-name>ТРК Регион</display-name><icon src="https://iptvx.one/picons/d1-dnepr.png"/></channel>
+<channel id="da-vinci"><display-name>Da Vinci Learning</display-name><display-name>Да Винчи</display-name><display-name>Da Vinci</display-name><icon src="https://iptvx.one/picons/da-vinci.png"/></channel>
+<channel id="da-vinci-eu"><display-name>Da Vinci Learning Europe</display-name><display-name>Da Vinci Europe</display-name><display-name>Da Vinci Україна</display-name><display-name>Да Винчи Україна</display-name><display-name>Da Vinci Украина</display-name><display-name>Да Винчи Украина</display-name><icon src="https://iptvx.one/picons/da-vinci.png"/></channel>
+<channel id="dacha"><display-name>Дача</display-name><display-name>Дача HD</display-name><icon src="https://iptvx.one/picons/dacha.png"/></channel>
+<channel id="dajving-tv"><display-name>Дайвинг.TV</display-name><display-name>Дайвинг TV</display-name><icon src="https://iptvx.one/picons/dajving-tv.png"/></channel>
+<channel id="das-erste"><display-name>Das Erste</display-name><display-name>Das Erste HD</display-name><icon src="https://iptvx.one/picons/das-erste.png"/></channel>
+<channel id="dazn-f1-es"><display-name>DAZN F1 [ES]</display-name><icon src="https://iptvx.one/picons/dazn-f1-es.png"/></channel>
+<channel id="dazn-laliga-es"><display-name>DAZN LALIGA [ES]</display-name><icon src="https://iptvx.one/picons/dazn-laliga-es.png"/></channel>
+<channel id="dazn-laliga2-es"><display-name>DAZN LALIGA 2 [ES]</display-name><icon src="https://iptvx.one/picons/dazn-laliga2-es.png"/></channel>
+<channel id="dazn1-es"><display-name>DAZN 1 [ES]</display-name><icon src="https://iptvx.one/picons/dazn1-es.png"/></channel>
+<channel id="dazn2-es"><display-name>DAZN 2 [ES]</display-name><icon src="https://iptvx.one/picons/dazn2-es.png"/></channel>
+<channel id="daznbar1"><display-name>DAZN 1 HD</display-name><display-name>DAZN Bar 1 HD</display-name><icon src="https://iptvx.one/picons/daznbar1.png"/></channel>
+<channel id="daznbar2"><display-name>DAZN 2 HD</display-name><display-name>DAZN Bar 2 HD</display-name><icon src="https://iptvx.one/picons/daznbar2.png"/></channel>
+<channel id="deejaytv-it"><display-name>Deejay TV [IT]</display-name><icon src="https://iptvx.one/picons/deejaytv-it.png"/></channel>
+<channel id="delfi-tv"><display-name>Delfi.TV</display-name><display-name>Delfi.TV HD</display-name><icon src="https://iptvx.one/picons/delfi-tv.png"/></channel>
+<channel id="deluxe-music-de"><display-name>Deluxe Music [DE]</display-name><icon src="https://iptvx.one/picons/deluxe-music-de.png"/></channel>
+<channel id="denpobedy"><display-name>День Победы</display-name><display-name>День Победы HD</display-name><icon src="https://iptvx.one/picons/denpobedy.png"/></channel>
+<channel id="detectivejam"><display-name>DetectiveJam</display-name><icon src="https://iptvx.one/picons/detectivejam.png"/></channel>
+<channel id="detkino-tviksel"><display-name>Детское кино (TvikselTV)</display-name><icon src="https://iptvx.one/picons/detkino-tviksel.png"/></channel>
+<channel id="detkinoint-tviksel"><display-name>Детское кино International</display-name><icon src="https://iptvx.one/picons/detkinoint-tviksel.png"/></channel>
+<channel id="detskoe-kino"><display-name>Детское кино</display-name><display-name>Детское кино HD</display-name><icon src="https://iptvx.one/picons/detskoe-kino.png"/></channel>
+<channel id="detsky"><display-name>Уникум</display-name><display-name>Детский</display-name><display-name>Детский HD</display-name><display-name>Уникум HD</display-name><icon src="https://iptvx.one/picons/unikum.png"/></channel>
+<channel id="detsky-mir"><display-name>Детский мир</display-name><icon src="https://iptvx.one/picons/detsky-mir.png"/></channel>
+<channel id="deutsche-welle-eu"><display-name>Deutsche Welle Europe</display-name><display-name>DW Europe</display-name><icon src="https://iptvx.one/picons/deutsche-welle-eu.png"/></channel>
+<channel id="deutsche-welle-ru"><display-name>Deutsche Welle Russia</display-name><display-name>DW Russia</display-name><icon src="https://iptvx.one/picons/deutsche-welle-ru.png"/></channel>
+<channel id="deviatka"><display-name>Девятка ТВ</display-name><icon src="https://iptvx.one/picons/deviatka.png"/></channel>
+<channel id="devon-info"><display-name>Девон-Инфо</display-name><icon src="https://iptvx.one/picons/devon-info.png"/></channel>
+<channel id="dialogi-o-rybalke"><display-name>Диалоги о рыбалке</display-name><icon src="https://iptvx.one/picons/dialogi-o-rybalke.png"/></channel>
+<channel id="diema-sport-1"><display-name>Diema Sport</display-name><display-name>Diema Sport HD</display-name><display-name>Diema Sport 1</display-name><display-name>Diema Sport 1 HD</display-name><icon src="https://iptvx.one/picons/diema-sport-1.png"/></channel>
+<channel id="diema-sport-2"><display-name>Diema Sport 2</display-name><display-name>Diema Sport 2 HD</display-name><icon src="https://iptvx.one/picons/diema-sport-2.png"/></channel>
+<channel id="diema-sport-3"><display-name>Diema Sport 3</display-name><display-name>Diema Sport 3 HD</display-name><icon src="https://iptvx.one/picons/diema-sport-3.png"/></channel>
+<channel id="digi-4k-ro"><display-name>Digi 4K [RO]</display-name><icon src="https://iptvx.one/picons/digi-4k-ro.png"/></channel>
+<channel id="digisport1"><display-name>DIGI Sport 1</display-name><display-name>DIGI Sport 1 HD</display-name><display-name>DIGI Sport 1 HD RO</display-name><icon src="https://iptvx.one/picons/digisport1.png"/></channel>
+<channel id="digisport2"><display-name>DIGI Sport 2</display-name><display-name>DIGI Sport 2 HD</display-name><display-name>DIGI Sport 2 HD RO</display-name><icon src="https://iptvx.one/picons/digisport2.png"/></channel>
+<channel id="digisport3"><display-name>DIGI Sport 3</display-name><display-name>DIGI Sport 3 HD</display-name><display-name>DIGI Sport 3 HD RO</display-name><icon src="https://iptvx.one/picons/digisport3.png"/></channel>
+<channel id="digisport4"><display-name>DIGI Sport 4</display-name><display-name>DIGI Sport 4 HD</display-name><display-name>DIGI Sport 4 HD RO</display-name><icon src="https://iptvx.one/picons/digisport4.png"/></channel>
+<channel id="digital-desire"><display-name>Digital Desire HD</display-name><display-name>Digital Desire</display-name><icon src="https://iptvx.one/picons/digital-desire.png"/></channel>
+<channel id="digiworld"><display-name>DIGI World RO</display-name><display-name>DIGI World HD RO</display-name><icon src="https://iptvx.one/picons/digiworld.png"/></channel>
+<channel id="dikaya-oxota-hd"><display-name>Дикая охота HD</display-name><display-name>Дикая охота</display-name><icon src="https://iptvx.one/picons/dikaya-oxota-hd.png"/></channel>
+<channel id="dikaya-rybalka-hd"><display-name>Дикая рыбалка HD</display-name><display-name>Дикая рыбалка</display-name><icon src="https://iptvx.one/picons/dikaya-rybalka-hd.png"/></channel>
+<channel id="dikiy"><display-name>Дикий HD</display-name><display-name>Дикий</display-name><icon src="https://iptvx.one/picons/dikiy.png"/></channel>
+<channel id="discovery-channel"><display-name>Discovery Channel</display-name><display-name>Discovery</display-name><display-name>Discovery HD</display-name><display-name>Discovery Channel HD</display-name><display-name>Discovery Центральная Европа</display-name><display-name>Discovery Channel Центральная Европа</display-name><display-name>Discovery CE</display-name><icon src="https://iptvx.one/picons/discovery-channel.png"/></channel>
+<channel id="discovery-channel-pl"><display-name>Discovery Channel [PL]</display-name><display-name>Discovery Channel HD [PL]</display-name><icon src="https://iptvx.one/picons/discovery-channel-pl.png"/></channel>
+<channel id="discovery-historia-pl"><display-name>Discovery Historia [PL]</display-name><icon src="https://iptvx.one/picons/discovery-historia-pl.png"/></channel>
+<channel id="discovery-life-pl"><display-name>Discovery Life [PL]</display-name><display-name>Discovery Life HD [PL]</display-name><icon src="https://iptvx.one/picons/discovery-life-pl.png"/></channel>
+<channel id="discovery-science"><display-name>Discovery Science</display-name><display-name>Discovery Science HD</display-name><icon src="https://iptvx.one/picons/discovery-science.png"/></channel>
+<channel id="discovery-science-pl"><display-name>Discovery Science [PL]</display-name><display-name>Discovery Science HD [PL]</display-name><icon src="https://iptvx.one/picons/discovery-science-pl.png"/></channel>
+<channel id="disney-c"><display-name>Disney</display-name><icon src="https://iptvx.one/picons/disney-c.png"/></channel>
+<channel id="disney-channel-pl"><display-name>Disney Channel [PL]</display-name><display-name>Disney Channel HD [PL]</display-name><icon src="https://iptvx.one/picons/disney-channel-pl.png"/></channel>
+<channel id="disney-jr"><display-name>Disney Junior [PL]</display-name><display-name>Disney Junior HD [PL]</display-name><icon src="https://iptvx.one/picons/disney-jr.png"/></channel>
+<channel id="disney-xd"><display-name>Disney XD [PL]</display-name><display-name>Disney XD HD [PL]</display-name><icon src="https://iptvx.one/picons/disney-xd.png"/></channel>
+<channel id="divisport"><display-name>DiviSport</display-name><icon src="https://iptvx.one/picons/divisport.png"/></channel>
+<channel id="dmax-tr"><display-name>DMAX HD TR</display-name><display-name>DMAX TR</display-name><icon src="https://iptvx.one/picons/dmax-tr.png"/></channel>
+<channel id="dniprotv"><display-name>ДнiпроTV</display-name><display-name>Днiпро TV</display-name><icon src="https://iptvx.one/picons/dniprotv.png"/></channel>
+<channel id="docubox-hd"><display-name>DocuBox HD</display-name><display-name>DocuBox</display-name><icon src="https://iptvx.one/picons/docubox-hd.png"/></channel>
+<channel id="doktor"><display-name>Доктор</display-name><display-name>Доктор HD</display-name><icon src="https://iptvx.one/picons/doktor.png"/></channel>
+<channel id="dom"><display-name>Дом</display-name><display-name>Дiм</display-name><icon src="https://iptvx.one/picons/dom.png"/></channel>
+<channel id="domashnie-zhivotnye"><display-name>Домашние животные</display-name><icon src="https://iptvx.one/picons/domashnie-zhivotnye.png"/></channel>
+<channel id="domashny"><display-name>Домашний</display-name><display-name>Домашний HD</display-name><icon src="https://iptvx.one/picons/domashny.png"/></channel>
+<channel id="domashny-int"><display-name>Домашний International</display-name><display-name>Домашний Int</display-name><display-name>Домашний Международный</display-name><icon src="https://iptvx.one/picons/domashny-int.png"/></channel>
+<channel id="domashny-magazin"><display-name>Домашний магазин</display-name><display-name>Leomax +</display-name><display-name>Leomax+</display-name><display-name>ТТС</display-name><display-name>Дисконт</display-name><icon src="https://iptvx.one/picons/domashny-magazin.png"/></channel>
+<channel id="domashny-pl2"><display-name>Домашний +2</display-name><icon src="https://iptvx.one/picons/domashny-pl2.png"/></channel>
+<channel id="domashny-pl4"><display-name>Домашний +4</display-name><icon src="https://iptvx.one/picons/domashny-pl4.png"/></channel>
+<channel id="domashny-pl7"><display-name>Домашний +7</display-name><icon src="https://iptvx.one/picons/domashny-pl7.png"/></channel>
+<channel id="domkino"><display-name>Дом кино</display-name><icon src="https://iptvx.one/picons/domkino.png"/></channel>
+<channel id="domkino-int"><display-name>Дом кино International</display-name><icon src="https://iptvx.one/picons/domkino.png"/></channel>
+<channel id="domkino-premium"><display-name>Дом кино Премиум</display-name><display-name>Дом кино Премиум HD</display-name><icon src="https://iptvx.one/picons/domkino-premium.png"/></channel>
+<channel id="domochag-kz"><display-name>Домашний Очаг [KZ]</display-name><display-name>Домашний Очаг</display-name><icon src="https://iptvx.one/picons/domochag-kz.png"/></channel>
+<channel id="domodedovo"><display-name>Домодедово</display-name><display-name>Домодедово ТВ</display-name><icon src="https://iptvx.one/picons/domodedovo.png"/></channel>
+<channel id="don-24"><display-name>Дон 24</display-name><icon src="https://iptvx.one/picons/don-24.png"/></channel>
+<channel id="dorama"><display-name>Дорама</display-name><display-name>Дорама HD</display-name><icon src="https://iptvx.one/picons/dorama.png"/></channel>
+<channel id="dorcel"><display-name>Dorcel</display-name><display-name>Dorcel HD</display-name><display-name>Dorcel TV</display-name><display-name>Dorcel TV HD</display-name><icon src="https://iptvx.one/picons/dorcel.png"/></channel>
+<channel id="dorcel-xxx"><display-name>Dorcel XXX</display-name><display-name>Dorcel XXX HD</display-name><display-name>DorcelXXX</display-name><display-name>DorcelXXX HD</display-name><icon src="https://iptvx.one/picons/dorcel-xxx.png"/></channel>
+<channel id="doverie"><display-name>Доверие</display-name><display-name>Москва. Доверие</display-name><icon src="https://iptvx.one/picons/doverie.png"/></channel>
+<channel id="dozhd"><display-name>Дождь</display-name><display-name>Дождь HD</display-name><icon src="https://iptvx.one/picons/dozhd.png"/></channel>
+<channel id="dream-turk-tr"><display-name>Dream Türk [TR]</display-name><icon src="https://iptvx.one/picons/dream-turk-tr.png"/></channel>
+<channel id="drive"><display-name>Драйв</display-name><icon src="https://iptvx.one/picons/drive.png"/></channel>
+<channel id="dstv-bg"><display-name>DSTV [BG]</display-name><icon src="https://iptvx.one/picons/dstv-bg.png"/></channel>
+<channel id="dtx-pl"><display-name>DTX [PL]</display-name><display-name>DTX HD [PL]</display-name><icon src="https://iptvx.one/picons/dtx-pl.png"/></channel>
+<channel id="ducktv"><display-name>ducktv</display-name><display-name>Duck TV</display-name><display-name>Duck TV HD</display-name><icon src="https://iptvx.one/picons/ducktv.png"/></channel>
+<channel id="ducktv-plus"><display-name>ducktv plus</display-name><display-name>Duck TV Plus</display-name><display-name>Duck TV Plus HD</display-name><icon src="https://iptvx.one/picons/ducktv-plus.png"/></channel>
+<channel id="dumatv"><display-name>ДумаТВ</display-name><display-name>Дума ТВ</display-name><icon src="https://iptvx.one/picons/dumatv.png"/></channel>
+<channel id="duo-one-ee"><display-name>Duo One [EE]</display-name><icon src="https://iptvx.one/picons/duo-one-ee.png"/></channel>
+<channel id="duo5-lv"><display-name>Duo 5 LV</display-name><icon src="https://iptvx.one/picons/duo5-lv.png"/></channel>
+<channel id="duo7ee"><display-name>Duo 7 [EE]</display-name><display-name>Kanal 7 [EE]</display-name><icon src="https://iptvx.one/picons/duo7ee.png"/></channel>
+<channel id="duo7lv"><display-name>Duo 7 [LV]</display-name><display-name>Kanal 7 [LV]</display-name><icon src="https://iptvx.one/picons/duo7lv.png"/></channel>
+<channel id="dushevnoe"><display-name>Душевное SD</display-name><display-name>Душевное</display-name><display-name>Наш кинороман</display-name><display-name>Наш кинороман SD</display-name><icon src="https://iptvx.one/picons/dushevnoe.png"/></channel>
+<channel id="dushevnoe-hd"><display-name>Душевное HD</display-name><display-name>Наш кинороман HD</display-name><icon src="https://iptvx.one/picons/dushevnoe-hd.png"/></channel>
+<channel id="dynamo-kyiv-tv"><display-name>Dynamo Kyiv TV</display-name><icon src="https://iptvx.one/picons/dynamo-kyiv-tv.png"/></channel>
+<channel id="dzenzhinsk-tv"><display-name>Дзержинск ТВ</display-name><icon src="https://iptvx.one/picons/dzenzhinsk-tv.png"/></channel>
+<channel id="e-entertaiment-pl"><display-name>E! Entertainment [PL]</display-name><display-name>E! Entertainment HD [PL]</display-name><icon src="https://iptvx.one/picons/e-entertaiment-pl.png"/></channel>
+<channel id="e-tv"><display-name>Телеканал Е HD</display-name><display-name>E TV</display-name><display-name>Е HD</display-name><display-name>Game Show</display-name><icon src="https://iptvx.one/picons/e-tv.png"/></channel>
+<channel id="earth-twl"><display-name>EarthTV The World Live</display-name><icon src="https://iptvx.one/picons/earth-twl.png"/></channel>
+<channel id="ech"><display-name>Эх!</display-name><icon src="https://iptvx.one/picons/ech.png"/></channel>
+<channel id="echotv"><display-name>Эхо TV</display-name><icon src="https://iptvx.one/picons/echotv.png"/></channel>
+<channel id="echotv24"><display-name>Эхо ТВ 24</display-name><display-name>Эхо TV 24</display-name><icon src="https://iptvx.one/picons/echotv24.png"/></channel>
+<channel id="eda"><display-name>Еда</display-name><icon src="https://iptvx.one/picons/eda.png"/></channel>
+<channel id="eda-hd"><display-name>FoodTime</display-name><display-name>Еда HD</display-name><display-name>Еда Премиум HD</display-name><display-name>Еда Премиум</display-name><icon src="https://iptvx.one/picons/eda-hd.png"/></channel>
+<channel id="eda-hd-int"><display-name>Еда Премиум Int. HD</display-name><display-name>Еда Премиум Международный</display-name><display-name>Еда Премиум International</display-name><display-name>Еда Премиум Международный HD</display-name><display-name>Еда Премиум International HD</display-name><icon src="https://iptvx.one/picons/eda-hd-int.png"/></channel>
+<channel id="edgesport-de"><display-name>Edge Sport HD DE</display-name><display-name>Edge Sport DE</display-name><icon src="https://iptvx.one/picons/edgesport-de.png"/></channel>
+<channel id="eesti-kanal"><display-name>Eesti Kanal</display-name><icon src="https://iptvx.one/picons/eesti-kanal.png"/></channel>
+<channel id="efir24-relax"><display-name>Эфир</display-name><display-name>Эфир-24</display-name><icon src="https://iptvx.one/picons/efir24-relax.png"/></channel>
+<channel id="ege-tv"><display-name>ЕГЭ</display-name><icon src="https://iptvx.one/picons/ege-tv.png"/></channel>
+<channel id="eko-tv"><display-name>Эко-ТВ</display-name><display-name>Eco TV</display-name><icon src="https://iptvx.one/picons/eko-tv.png"/></channel>
+<channel id="eleven-sport1-pt"><display-name>DAZN 1 PT</display-name><display-name>Eleven Sports 1 PT</display-name><icon src="https://iptvx.one/picons/eleven-sport1-pt.png"/></channel>
+<channel id="eleven-sport2-pt"><display-name>DAZN 2 PT</display-name><display-name>Eleven Sports 2 PT</display-name><icon src="https://iptvx.one/picons/eleven-sport2-pt.png"/></channel>
+<channel id="eleven-sport3-pt"><display-name>DAZN 3 PT</display-name><display-name>Eleven Sports 3 PT</display-name><icon src="https://iptvx.one/picons/eleven-sport3-pt.png"/></channel>
+<channel id="eleven-sport4-pt"><display-name>DAZN 4 PT</display-name><display-name>Eleven Sports 4 PT</display-name><icon src="https://iptvx.one/picons/eleven-sport4-pt.png"/></channel>
+<channel id="eleven-sport5-pt"><display-name>DAZN 5 PT</display-name><display-name>Eleven Sports 5 PT</display-name><icon src="https://iptvx.one/picons/eleven-sport5-pt.png"/></channel>
+<channel id="eleven-sport6-pt"><display-name>DAZN 6 PT</display-name><display-name>Eleven Sports 6 PT</display-name><icon src="https://iptvx.one/picons/eleven-sport6-pt.png"/></channel>
+<channel id="eleven-sports-1"><display-name>Eleven Sports 1 [PL]</display-name><display-name>Eleven Sports 1 HD [PL]</display-name><display-name>Eleven Sports 1 4K [PL]</display-name><icon src="https://iptvx.one/picons/eleven-sports-1.png"/></channel>
+<channel id="eleven-sports-2"><display-name>Eleven Sports 2 [PL]</display-name><display-name>Eleven Sports 2 HD [PL]</display-name><icon src="https://iptvx.one/picons/eleven-sports-2.png"/></channel>
+<channel id="eleven-sports-3"><display-name>Eleven Sports 3 [PL]</display-name><display-name>Eleven Sports 3 HD [PL]</display-name><icon src="https://iptvx.one/picons/eleven-sports-3.png"/></channel>
+<channel id="eleven-sports-4"><display-name>Eleven Sports 4 [PL]</display-name><display-name>Eleven Sports 4 HD [PL]</display-name><icon src="https://iptvx.one/picons/eleven-sports-4.png"/></channel>
+<channel id="english-class"><display-name>English Class</display-name><icon src="https://iptvx.one/picons/english-class.png"/></channel>
+<channel id="english-club-tv"><display-name>English Club TV</display-name><display-name>English Club TV HD</display-name><display-name>English Club HD</display-name><icon src="https://iptvx.one/picons/englishclub.png"/></channel>
+<channel id="enisey-region"><display-name>Енисей регион</display-name>
