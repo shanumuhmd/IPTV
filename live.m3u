@@ -583,8 +583,8 @@ https://wildearth-plex.amagi.tv/masterR432p.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="Documentary", Food Network
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="iranintl.com" tvg-logo="https://images.contactout.com/companies/baf86dc939b7a11324af9cddc6da75be.jpg" group-title="Documentary", Iran Intl TV
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 
 
 
